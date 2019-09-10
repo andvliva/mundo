@@ -1,0 +1,317 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Mundo\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-10 08:48+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: mundo.trung_bak_01092019.php:220 mundo.trung_bak_01092019.php:3935
+#: mundo.trung_bak_01092019.php:4024 mundo.php:220 mundo.php:3935
+#: mundo.php:4024 mundo.php:4971
+msgid "Day"
+msgstr ""
+
+#: mundo.trung_bak_01092019.php:220 mundo.trung_bak_01092019.php:3935
+#: mundo.trung_bak_01092019.php:4024 mundo.php:220 mundo.php:3935
+#: mundo.php:4024 mundo.php:4971
+msgid "Night"
+msgstr ""
+
+#: mundo.trung_bak_01092019.php:220 mundo.trung_bak_01092019.php:3935
+#: mundo.trung_bak_01092019.php:4024 mundo.php:220 mundo.php:3935
+#: mundo.php:4024 mundo.php:4971
+msgid "Days"
+msgstr ""
+
+#: mundo.trung_bak_01092019.php:220 mundo.trung_bak_01092019.php:3935
+#: mundo.trung_bak_01092019.php:4024 mundo.php:220 mundo.php:3935
+#: mundo.php:4024 mundo.php:4971
+msgid "Nights"
+msgstr ""
+
+#: mundo.trung_bak_01092019.php:279 mundo.trung_bak_01092019.php:3990
+#: mundo.trung_bak_01092019.php:4101 mundo.php:279 mundo.php:3990
+#: mundo.php:4101 mundo.php:5049
+msgid "From"
+msgstr ""
+
+#: mundo.trung_bak_01092019.php:301 mundo.php:301
+msgid "Style"
+msgstr ""
+
+#: mundo.trung_bak_01092019.php:310 mundo.php:310
+msgid "Itinerary"
+msgstr ""
+
+#: mundo.trung_bak_01092019.php:319 mundo.php:319
+msgid "Start"
+msgstr ""
+
+#: mundo.trung_bak_01092019.php:328 mundo.php:328
+msgid "End"
+msgstr ""
+
+#: mundo.trung_bak_01092019.php:340 mundo.php:340
+msgid "Meals"
+msgstr ""
+
+#: mundo.trung_bak_01092019.php:342 mundo.php:342
+msgid "Breakfast"
+msgstr ""
+
+#: mundo.trung_bak_01092019.php:343 mundo.php:343
+msgid "Lunch"
+msgstr ""
+
+#: mundo.trung_bak_01092019.php:344 mundo.php:344
+msgid "Dinner"
+msgstr ""
+
+#: mundo.trung_bak_01092019.php:352 mundo.php:352
+msgid "Visiting"
+msgstr ""
+
+#: mundo.trung_bak_01092019.php:360 mundo.php:360
+msgid "Countries"
+msgstr ""
+
+#: mundo.trung_bak_01092019.php:386 mundo.trung_bak_01092019.php:582
+#: mundo.trung_bak_01092019.php:693 mundo.php:386 mundo.php:582 mundo.php:693
+msgid "Search tour"
+msgstr ""
+
+#: mundo.trung_bak_01092019.php:387 mundo.trung_bak_01092019.php:583
+#: mundo.php:387 mundo.php:583
+msgid "Enter tour name"
+msgstr ""
+
+#: mundo.trung_bak_01092019.php:388 mundo.trung_bak_01092019.php:584
+#: mundo.php:388 mundo.php:584
+msgid "Search"
+msgstr ""
+
+#: mundo.trung_bak_01092019.php:421 mundo.php:421
+msgid "Choose Destination"
+msgstr ""
+
+#: mundo.trung_bak_01092019.php:435 mundo.php:435
+msgid "Choose Duration "
+msgstr ""
+
+#: mundo.trung_bak_01092019.php:458 mundo.trung_bak_01092019.php:575
+#: mundo.php:458 mundo.php:575
+msgid "Choose departure"
+msgstr ""
+
+#: mundo.trung_bak_01092019.php:459 mundo.trung_bak_01092019.php:576
+#: mundo.trung_bak_01092019.php:576 mundo.php:459 mundo.php:459 mundo.php:576
+#: mundo.php:576
+msgid "Choose departure here"
+msgstr ""
+
+#: mundo.trung_bak_01092019.php:522 mundo.php:522
+msgid "Choose destination"
+msgstr ""
+
+#: mundo.trung_bak_01092019.php:538 mundo.php:538
+msgid "Choose style"
+msgstr ""
+
+#: mundo.trung_bak_01092019.php:552 mundo.php:552
+msgid "Choose duration"
+msgstr ""
+
+#: mundo.trung_bak_01092019.php:653 mundo.trung_bak_01092019.php:752
+#: mundo.php:653 mundo.php:752
+msgid "Where would you like to go?"
+msgstr ""
+
+#: mundo.trung_bak_01092019.php:666 mundo.trung_bak_01092019.php:778
+#: mundo.php:666 mundo.php:778
+msgid "What would you like to do?"
+msgstr ""
+
+#: mundo.trung_bak_01092019.php:670 mundo.php:670
+msgid "Departures "
+msgstr ""
+
+#: mundo.trung_bak_01092019.php:681 mundo.trung_bak_01092019.php:794
+#: mundo.php:681 mundo.php:794
+msgid "When do you want to travel? "
+msgstr ""
+
+#: mundo.trung_bak_01092019.php:698 mundo.php:698
+msgid "Step 1"
+msgstr ""
+
+#: mundo.trung_bak_01092019.php:698 mundo.php:698
+msgid "Design Your Tour"
+msgstr ""
+
+#: mundo.trung_bak_01092019.php:823 mundo.trung_bak_01092019.php:886
+#: mundo.php:823 mundo.php:886
+msgid "Search Hotel"
+msgstr ""
+
+#: mundo.trung_bak_01092019.php:825 mundo.php:825
+msgid "Restaurant Name "
+msgstr ""
+
+#: mundo.trung_bak_01092019.php:839 mundo.trung_bak_01092019.php:902
+#: mundo.php:839 mundo.php:902
+msgid "Choose City"
+msgstr ""
+
+#: mundo.trung_bak_01092019.php:841 mundo.php:841
+msgid "Choose City Here"
+msgstr ""
+
+#: mundo.trung_bak_01092019.php:850 mundo.php:850
+msgid "Choose Restaurant Style"
+msgstr ""
+
+#: mundo.trung_bak_01092019.php:852 mundo.trung_bak_01092019.php:915
+#: mundo.php:852 mundo.php:915
+msgid "Choose Style here"
+msgstr ""
+
+#: mundo.trung_bak_01092019.php:888 mundo.php:888
+msgid "Hotel Name "
+msgstr ""
+
+#: mundo.trung_bak_01092019.php:913 mundo.php:913
+msgid "Choose Hotel Style"
+msgstr ""
+
+#: mundo.trung_bak_01092019.php:951 mundo.php:951
+msgid "Type article name"
+msgstr ""
+
+#: mundo.trung_bak_01092019.php:1094 mundo.trung_bak_01092019.php:1174
+#: mundo.php:1094 mundo.php:1174
+msgid "Share"
+msgstr ""
+
+#: mundo.trung_bak_01092019.php:1144 mundo.trung_bak_01092019.php:1224
+#: mundo.php:1144 mundo.php:1224
+msgid "CONTACT US"
+msgstr ""
+
+#: mundo.trung_bak_01092019.php:2257 mundo.php:2257
+msgid "Categories"
+msgstr ""
+
+#: mundo.trung_bak_01092019.php:2637 mundo.trung_bak_01092019.php:2732
+#: mundo.trung_bak_01092019.php:2994 mundo.trung_bak_01092019.php:3129
+#: mundo.trung_bak_01092019.php:3531 mundo.trung_bak_01092019.php:3560
+#: mundo.trung_bak_01092019.php:3599 mundo.trung_bak_01092019.php:3606
+#: mundo.php:2637 mundo.php:2732 mundo.php:2994 mundo.php:3129 mundo.php:3531
+#: mundo.php:3560 mundo.php:3599 mundo.php:3606
+msgid "Show More"
+msgstr ""
+
+#: mundo.trung_bak_01092019.php:3089 mundo.php:3089
+msgid "Fully Booked"
+msgstr ""
+
+#: mundo.trung_bak_01092019.php:3089 mundo.php:3089
+msgid "Available"
+msgstr ""
+
+#: mundo.trung_bak_01092019.php:3090 mundo.php:3090
+msgid "fully"
+msgstr ""
+
+#: mundo.trung_bak_01092019.php:3090 mundo.php:3090
+msgid "available"
+msgstr ""
+
+#: mundo.trung_bak_01092019.php:3825 mundo.trung_bak_01092019.php:4129
+#: mundo.trung_bak_01092019.php:4270 mundo.trung_bak_01092019.php:4273
+#: mundo.php:3825 mundo.php:4129 mundo.php:4270 mundo.php:4273
+msgid "Show more"
+msgstr ""
+
+#: mundo.trung_bak_01092019.php:3968 mundo.trung_bak_01092019.php:4082
+#: mundo.php:3968 mundo.php:4082 mundo.php:5025
+msgid "Highlights"
+msgstr ""
+
+#: mundo.trung_bak_01092019.php:3986 mundo.trung_bak_01092019.php:4099
+#: mundo.php:3986 mundo.php:4099 mundo.php:5046
+msgid "On Request"
+msgstr ""
+
+#: mundo.trung_bak_01092019.php:3990 mundo.trung_bak_01092019.php:4101
+#: mundo.php:3990 mundo.php:4101 mundo.php:5049
+msgid "Price"
+msgstr ""
+
+#: mundo.trung_bak_01092019.php:3995 mundo.php:3995
+msgid "View Tour"
+msgstr ""
+
+#: mundo.trung_bak_01092019.php:4104 mundo.php:4104 mundo.php:5052
+msgid "View tour"
+msgstr ""
+
+#: mundo.trung_bak_01092019.php:4267 mundo.php:4267
+msgid "More Reviews"
+msgstr ""
+
+#: mundo.trung_bak_01092019.php:4494 mundo.php:4494
+msgid "Move to trash"
+msgstr ""
+
+#: mundo.php:5060
+msgid "No result founds"
+msgstr ""
+
+#: mundo.php:5121
+msgid "Prev"
+msgstr ""
+
+#: mundo.php:5122
+msgid "Next"
+msgstr ""
+
+#: mundo.php:5169
+msgid "time"
+msgstr ""
+
+#: mundo.php:5170
+msgid "adult"
+msgstr ""
+
+#: mundo.php:5171
+msgid "language"
+msgstr ""
+
+#: mundo.php:5172
+msgid "flight"
+msgstr ""
+
+#. Description of the plugin
+msgid "mundo"
+msgstr ""
+
+#. URI of the plugin
+msgid "http://liva.com.vn/plugins/mundo"
+msgstr ""
+
+#. Author of the plugin
+msgid "LIVA"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://liva.com.vn"
+msgstr ""

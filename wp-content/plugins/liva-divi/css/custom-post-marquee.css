@@ -1,0 +1,15 @@
+.marquee_container {
+    overflow: hidden;
+}
+.marquee_container >label{
+    padding: 10px;
+    float: left;
+    text-align: center;
+    width: 100px;
+}
+.marquee_container > .marquee {
+    width: calc( 100% - 100px );
+    float: right;
+    padding: 10px;
+    overflow: hidden;
+}

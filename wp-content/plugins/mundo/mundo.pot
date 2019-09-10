@@ -1,0 +1,527 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Mundo\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-28 02:37+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: mundo.trung_bak_22012019.php:220 mundo.trung_bak_22012019.php:4272
+#: mundo.trung_bak_22012019.php:4367 mundo.trung_bak_22012019.php:5351
+#: mundo.trung_bak_25012019.php:220 mundo.trung_bak_25012019.php:873
+#: mundo.trung_bak_25012019.php:4396 mundo.trung_bak_25012019.php:4491
+#: mundo.trung_bak_25012019.php:5521 mundo.trung_bak_01092019.php:220
+#: mundo.trung_bak_01092019.php:3935 mundo.trung_bak_01092019.php:4024
+#: mundo.php:220 mundo.php:873 mundo.php:4396 mundo.php:4491 mundo.php:5522
+#: mundo.trung_bak_18012019.php:220 mundo.trung_bak_18012019.php:4104
+#: mundo.trung_bak_18012019.php:4199 mundo.trung_bak_18012019.php:5164
+msgid "Day"
+msgstr ""
+
+#: mundo.trung_bak_22012019.php:220 mundo.trung_bak_22012019.php:4272
+#: mundo.trung_bak_22012019.php:4367 mundo.trung_bak_22012019.php:5351
+#: mundo.trung_bak_25012019.php:220 mundo.trung_bak_25012019.php:873
+#: mundo.trung_bak_25012019.php:4396 mundo.trung_bak_25012019.php:4491
+#: mundo.trung_bak_25012019.php:5521 mundo.trung_bak_01092019.php:220
+#: mundo.trung_bak_01092019.php:3935 mundo.trung_bak_01092019.php:4024
+#: mundo.php:220 mundo.php:873 mundo.php:4396 mundo.php:4491 mundo.php:5522
+#: mundo.trung_bak_18012019.php:220 mundo.trung_bak_18012019.php:4104
+#: mundo.trung_bak_18012019.php:4199 mundo.trung_bak_18012019.php:5164
+msgid "Night"
+msgstr ""
+
+#: mundo.trung_bak_22012019.php:220 mundo.trung_bak_22012019.php:4272
+#: mundo.trung_bak_22012019.php:4367 mundo.trung_bak_22012019.php:5351
+#: mundo.trung_bak_25012019.php:220 mundo.trung_bak_25012019.php:873
+#: mundo.trung_bak_25012019.php:4396 mundo.trung_bak_25012019.php:4491
+#: mundo.trung_bak_25012019.php:5521 mundo.trung_bak_01092019.php:220
+#: mundo.trung_bak_01092019.php:3935 mundo.trung_bak_01092019.php:4024
+#: mundo.php:220 mundo.php:873 mundo.php:4396 mundo.php:4491 mundo.php:5522
+#: mundo.trung_bak_18012019.php:220 mundo.trung_bak_18012019.php:4104
+#: mundo.trung_bak_18012019.php:4199 mundo.trung_bak_18012019.php:5164
+msgid "Days"
+msgstr ""
+
+#: mundo.trung_bak_22012019.php:220 mundo.trung_bak_22012019.php:4272
+#: mundo.trung_bak_22012019.php:4367 mundo.trung_bak_22012019.php:5351
+#: mundo.trung_bak_25012019.php:220 mundo.trung_bak_25012019.php:873
+#: mundo.trung_bak_25012019.php:4396 mundo.trung_bak_25012019.php:4491
+#: mundo.trung_bak_25012019.php:5521 mundo.trung_bak_01092019.php:220
+#: mundo.trung_bak_01092019.php:3935 mundo.trung_bak_01092019.php:4024
+#: mundo.php:220 mundo.php:873 mundo.php:4396 mundo.php:4491 mundo.php:5522
+#: mundo.trung_bak_18012019.php:220 mundo.trung_bak_18012019.php:4104
+#: mundo.trung_bak_18012019.php:4199 mundo.trung_bak_18012019.php:5164
+msgid "Nights"
+msgstr ""
+
+#: mundo.trung_bak_22012019.php:279 mundo.trung_bak_22012019.php:4327
+#: mundo.trung_bak_22012019.php:4445 mundo.trung_bak_22012019.php:5429
+#: mundo.trung_bak_25012019.php:279 mundo.trung_bak_25012019.php:880
+#: mundo.trung_bak_25012019.php:4451 mundo.trung_bak_25012019.php:4569
+#: mundo.trung_bak_25012019.php:5599 mundo.trung_bak_01092019.php:279
+#: mundo.trung_bak_01092019.php:3990 mundo.trung_bak_01092019.php:4101
+#: mundo.php:279 mundo.php:880 mundo.php:4451 mundo.php:4569 mundo.php:5600
+#: mundo.trung_bak_18012019.php:279 mundo.trung_bak_18012019.php:4159
+#: mundo.trung_bak_18012019.php:4277 mundo.trung_bak_18012019.php:5242
+msgid "From"
+msgstr ""
+
+#: mundo.trung_bak_22012019.php:301 mundo.trung_bak_25012019.php:301
+#: mundo.trung_bak_01092019.php:301 mundo.php:301
+#: mundo.trung_bak_18012019.php:301
+msgid "Style"
+msgstr ""
+
+#: mundo.trung_bak_22012019.php:310 mundo.trung_bak_25012019.php:310
+#: mundo.trung_bak_01092019.php:310 mundo.php:310
+#: mundo.trung_bak_18012019.php:310
+msgid "Itinerary"
+msgstr ""
+
+#: mundo.trung_bak_22012019.php:319 mundo.trung_bak_25012019.php:319
+#: mundo.trung_bak_01092019.php:319 mundo.php:319
+#: mundo.trung_bak_18012019.php:319
+msgid "Start"
+msgstr ""
+
+#: mundo.trung_bak_22012019.php:328 mundo.trung_bak_25012019.php:328
+#: mundo.trung_bak_01092019.php:328 mundo.php:328
+#: mundo.trung_bak_18012019.php:328
+msgid "End"
+msgstr ""
+
+#: mundo.trung_bak_22012019.php:340 mundo.trung_bak_25012019.php:340
+#: mundo.trung_bak_01092019.php:340 mundo.php:340
+#: mundo.trung_bak_18012019.php:340
+msgid "Meals"
+msgstr ""
+
+#: mundo.trung_bak_22012019.php:342 mundo.trung_bak_25012019.php:342
+#: mundo.trung_bak_01092019.php:342 mundo.php:342
+#: mundo.trung_bak_18012019.php:342
+msgid "Breakfast"
+msgstr ""
+
+#: mundo.trung_bak_22012019.php:343 mundo.trung_bak_25012019.php:343
+#: mundo.trung_bak_01092019.php:343 mundo.php:343
+#: mundo.trung_bak_18012019.php:343
+msgid "Lunch"
+msgstr ""
+
+#: mundo.trung_bak_22012019.php:344 mundo.trung_bak_25012019.php:344
+#: mundo.trung_bak_01092019.php:344 mundo.php:344
+#: mundo.trung_bak_18012019.php:344
+msgid "Dinner"
+msgstr ""
+
+#: mundo.trung_bak_22012019.php:352 mundo.trung_bak_25012019.php:352
+#: mundo.trung_bak_01092019.php:352 mundo.php:352
+#: mundo.trung_bak_18012019.php:352
+msgid "Visiting"
+msgstr ""
+
+#: mundo.trung_bak_22012019.php:360 mundo.trung_bak_25012019.php:360
+#: mundo.trung_bak_01092019.php:360 mundo.php:360
+#: mundo.trung_bak_18012019.php:360
+msgid "Countries"
+msgstr ""
+
+#: mundo.trung_bak_22012019.php:386 mundo.trung_bak_22012019.php:588
+#: mundo.trung_bak_22012019.php:699 mundo.trung_bak_25012019.php:386
+#: mundo.trung_bak_25012019.php:588 mundo.trung_bak_25012019.php:699
+#: mundo.trung_bak_01092019.php:386 mundo.trung_bak_01092019.php:582
+#: mundo.trung_bak_01092019.php:693 mundo.php:386 mundo.php:588 mundo.php:699
+#: mundo.trung_bak_18012019.php:386 mundo.trung_bak_18012019.php:582
+#: mundo.trung_bak_18012019.php:693
+msgid "Search tour"
+msgstr ""
+
+#: mundo.trung_bak_22012019.php:387 mundo.trung_bak_22012019.php:589
+#: mundo.trung_bak_25012019.php:387 mundo.trung_bak_25012019.php:589
+#: mundo.trung_bak_01092019.php:387 mundo.trung_bak_01092019.php:583
+#: mundo.php:387 mundo.php:589 mundo.trung_bak_18012019.php:387
+#: mundo.trung_bak_18012019.php:583
+msgid "Enter tour name"
+msgstr ""
+
+#: mundo.trung_bak_22012019.php:388 mundo.trung_bak_22012019.php:590
+#: mundo.trung_bak_25012019.php:388 mundo.trung_bak_25012019.php:590
+#: mundo.trung_bak_01092019.php:388 mundo.trung_bak_01092019.php:584
+#: mundo.php:388 mundo.php:590 mundo.trung_bak_18012019.php:388
+#: mundo.trung_bak_18012019.php:584
+msgid "Search"
+msgstr ""
+
+#: mundo.trung_bak_22012019.php:421 mundo.trung_bak_25012019.php:421
+#: mundo.trung_bak_01092019.php:421 mundo.php:421
+#: mundo.trung_bak_18012019.php:421
+msgid "Choose Destination"
+msgstr ""
+
+#: mundo.trung_bak_22012019.php:435 mundo.trung_bak_25012019.php:435
+#: mundo.trung_bak_01092019.php:435 mundo.php:435
+#: mundo.trung_bak_18012019.php:435
+msgid "Choose Duration "
+msgstr ""
+
+#: mundo.trung_bak_22012019.php:458 mundo.trung_bak_22012019.php:581
+#: mundo.trung_bak_25012019.php:458 mundo.trung_bak_25012019.php:581
+#: mundo.trung_bak_01092019.php:458 mundo.trung_bak_01092019.php:575
+#: mundo.php:458 mundo.php:581 mundo.trung_bak_18012019.php:458
+#: mundo.trung_bak_18012019.php:575
+msgid "Choose departure"
+msgstr ""
+
+#: mundo.trung_bak_22012019.php:459 mundo.trung_bak_22012019.php:582
+#: mundo.trung_bak_22012019.php:582 mundo.trung_bak_25012019.php:459
+#: mundo.trung_bak_25012019.php:459 mundo.trung_bak_25012019.php:582
+#: mundo.trung_bak_25012019.php:582 mundo.trung_bak_01092019.php:459
+#: mundo.trung_bak_01092019.php:459 mundo.trung_bak_01092019.php:576
+#: mundo.trung_bak_01092019.php:576 mundo.php:459 mundo.php:459 mundo.php:582
+#: mundo.php:582 mundo.trung_bak_18012019.php:459
+#: mundo.trung_bak_18012019.php:459 mundo.trung_bak_18012019.php:576
+#: mundo.trung_bak_18012019.php:576
+msgid "Choose departure here"
+msgstr ""
+
+#: mundo.trung_bak_22012019.php:527 mundo.trung_bak_25012019.php:527
+#: mundo.trung_bak_01092019.php:522 mundo.php:527
+#: mundo.trung_bak_18012019.php:522
+msgid "Choose destination"
+msgstr ""
+
+#: mundo.trung_bak_22012019.php:543 mundo.trung_bak_25012019.php:543
+#: mundo.trung_bak_01092019.php:538 mundo.php:543
+#: mundo.trung_bak_18012019.php:538
+msgid "Choose style"
+msgstr ""
+
+#: mundo.trung_bak_22012019.php:558 mundo.trung_bak_25012019.php:558
+#: mundo.trung_bak_01092019.php:552 mundo.php:558
+#: mundo.trung_bak_18012019.php:552
+msgid "Choose duration"
+msgstr ""
+
+#: mundo.trung_bak_22012019.php:659 mundo.trung_bak_22012019.php:759
+#: mundo.trung_bak_25012019.php:659 mundo.trung_bak_25012019.php:759
+#: mundo.trung_bak_01092019.php:653 mundo.trung_bak_01092019.php:752
+#: mundo.php:659 mundo.php:759 mundo.trung_bak_18012019.php:653
+#: mundo.trung_bak_18012019.php:753
+msgid "Where would you like to go?"
+msgstr ""
+
+#: mundo.trung_bak_22012019.php:672 mundo.trung_bak_22012019.php:785
+#: mundo.trung_bak_25012019.php:672 mundo.trung_bak_25012019.php:785
+#: mundo.trung_bak_01092019.php:666 mundo.trung_bak_01092019.php:778
+#: mundo.php:672 mundo.php:785 mundo.trung_bak_18012019.php:666
+#: mundo.trung_bak_18012019.php:779
+msgid "What would you like to do?"
+msgstr ""
+
+#: mundo.trung_bak_22012019.php:676 mundo.trung_bak_01092019.php:670
+#: mundo.trung_bak_18012019.php:670
+msgid "Departures "
+msgstr ""
+
+#: mundo.trung_bak_22012019.php:687 mundo.trung_bak_22012019.php:801
+#: mundo.trung_bak_25012019.php:687 mundo.trung_bak_25012019.php:801
+#: mundo.trung_bak_01092019.php:681 mundo.trung_bak_01092019.php:794
+#: mundo.php:687 mundo.php:801 mundo.trung_bak_18012019.php:681
+#: mundo.trung_bak_18012019.php:795
+msgid "When do you want to travel? "
+msgstr ""
+
+#: mundo.trung_bak_22012019.php:704 mundo.trung_bak_25012019.php:704
+#: mundo.trung_bak_01092019.php:698 mundo.php:704
+#: mundo.trung_bak_18012019.php:698
+msgid "Step 1"
+msgstr ""
+
+#: mundo.trung_bak_22012019.php:704 mundo.trung_bak_25012019.php:704
+#: mundo.trung_bak_01092019.php:698 mundo.php:704
+#: mundo.trung_bak_18012019.php:698
+msgid "Design Your Tour"
+msgstr ""
+
+#: mundo.trung_bak_22012019.php:866 mundo.trung_bak_22012019.php:935
+#: mundo.trung_bak_25012019.php:976 mundo.trung_bak_25012019.php:1045
+#: mundo.trung_bak_01092019.php:823 mundo.trung_bak_01092019.php:886
+#: mundo.php:976 mundo.php:1045 mundo.trung_bak_18012019.php:849
+#: mundo.trung_bak_18012019.php:912
+msgid "Search Hotel"
+msgstr ""
+
+#: mundo.trung_bak_22012019.php:868 mundo.trung_bak_25012019.php:978
+#: mundo.trung_bak_01092019.php:825 mundo.php:978
+#: mundo.trung_bak_18012019.php:851
+msgid "Restaurant Name "
+msgstr ""
+
+#: mundo.trung_bak_22012019.php:882 mundo.trung_bak_22012019.php:951
+#: mundo.trung_bak_25012019.php:992 mundo.trung_bak_25012019.php:1061
+#: mundo.trung_bak_01092019.php:839 mundo.trung_bak_01092019.php:902
+#: mundo.php:992 mundo.php:1061 mundo.trung_bak_18012019.php:865
+#: mundo.trung_bak_18012019.php:928
+msgid "Choose City"
+msgstr ""
+
+#: mundo.trung_bak_22012019.php:884 mundo.trung_bak_25012019.php:994
+#: mundo.trung_bak_01092019.php:841 mundo.php:994
+#: mundo.trung_bak_18012019.php:867
+msgid "Choose City Here"
+msgstr ""
+
+#: mundo.trung_bak_22012019.php:899 mundo.trung_bak_25012019.php:1009
+#: mundo.trung_bak_01092019.php:850 mundo.php:1009
+#: mundo.trung_bak_18012019.php:876
+msgid "Choose Restaurant Style"
+msgstr ""
+
+#: mundo.trung_bak_22012019.php:901 mundo.trung_bak_22012019.php:969
+#: mundo.trung_bak_25012019.php:1011 mundo.trung_bak_25012019.php:1079
+#: mundo.trung_bak_01092019.php:852 mundo.trung_bak_01092019.php:915
+#: mundo.php:1011 mundo.php:1079 mundo.trung_bak_18012019.php:878
+#: mundo.trung_bak_18012019.php:941
+msgid "Choose Style here"
+msgstr ""
+
+#: mundo.trung_bak_22012019.php:937 mundo.trung_bak_25012019.php:1047
+#: mundo.trung_bak_01092019.php:888 mundo.php:1047
+#: mundo.trung_bak_18012019.php:914
+msgid "Hotel Name "
+msgstr ""
+
+#: mundo.trung_bak_22012019.php:967 mundo.trung_bak_25012019.php:1077
+#: mundo.trung_bak_01092019.php:913 mundo.php:1077
+#: mundo.trung_bak_18012019.php:939
+msgid "Choose Hotel Style"
+msgstr ""
+
+#: mundo.trung_bak_22012019.php:1005 mundo.trung_bak_25012019.php:1115
+#: mundo.trung_bak_01092019.php:951 mundo.php:1115
+#: mundo.trung_bak_18012019.php:977
+msgid "Type article name"
+msgstr ""
+
+#: mundo.trung_bak_22012019.php:1148 mundo.trung_bak_22012019.php:1228
+#: mundo.trung_bak_25012019.php:1258 mundo.trung_bak_25012019.php:1338
+#: mundo.trung_bak_01092019.php:1094 mundo.trung_bak_01092019.php:1174
+#: mundo.php:1258 mundo.php:1338 mundo.trung_bak_18012019.php:1120
+#: mundo.trung_bak_18012019.php:1200
+msgid "Share"
+msgstr ""
+
+#: mundo.trung_bak_22012019.php:1198 mundo.trung_bak_22012019.php:1278
+#: mundo.trung_bak_25012019.php:1308 mundo.trung_bak_25012019.php:1388
+#: mundo.trung_bak_01092019.php:1144 mundo.trung_bak_01092019.php:1224
+#: mundo.php:1308 mundo.php:1388 mundo.trung_bak_18012019.php:1170
+#: mundo.trung_bak_18012019.php:1250
+msgid "CONTACT US"
+msgstr ""
+
+#: mundo.trung_bak_22012019.php:2434 mundo.trung_bak_25012019.php:2544
+#: mundo.trung_bak_01092019.php:2257 mundo.php:2544
+#: mundo.trung_bak_18012019.php:2326
+msgid "Categories"
+msgstr ""
+
+#: mundo.trung_bak_22012019.php:2839 mundo.trung_bak_22012019.php:2935
+#: mundo.trung_bak_22012019.php:3270 mundo.trung_bak_22012019.php:3417
+#: mundo.trung_bak_22012019.php:3840 mundo.trung_bak_22012019.php:3872
+#: mundo.trung_bak_22012019.php:3911 mundo.trung_bak_22012019.php:3918
+#: mundo.trung_bak_25012019.php:2963 mundo.trung_bak_25012019.php:3059
+#: mundo.trung_bak_25012019.php:3394 mundo.trung_bak_25012019.php:3541
+#: mundo.trung_bak_25012019.php:3964 mundo.trung_bak_25012019.php:3996
+#: mundo.trung_bak_25012019.php:4035 mundo.trung_bak_25012019.php:4042
+#: mundo.trung_bak_01092019.php:2637 mundo.trung_bak_01092019.php:2732
+#: mundo.trung_bak_01092019.php:2994 mundo.trung_bak_01092019.php:3129
+#: mundo.trung_bak_01092019.php:3531 mundo.trung_bak_01092019.php:3560
+#: mundo.trung_bak_01092019.php:3599 mundo.trung_bak_01092019.php:3606
+#: mundo.php:2963 mundo.php:3059 mundo.php:3394 mundo.php:3541 mundo.php:3964
+#: mundo.php:3996 mundo.php:4035 mundo.php:4042
+#: mundo.trung_bak_18012019.php:2715 mundo.trung_bak_18012019.php:2810
+#: mundo.trung_bak_18012019.php:3109 mundo.trung_bak_18012019.php:3256
+#: mundo.trung_bak_18012019.php:3676 mundo.trung_bak_18012019.php:3705
+#: mundo.trung_bak_18012019.php:3744 mundo.trung_bak_18012019.php:3751
+msgid "Show More"
+msgstr ""
+
+#: mundo.trung_bak_22012019.php:3376 mundo.trung_bak_25012019.php:3500
+#: mundo.trung_bak_01092019.php:3089 mundo.php:3500
+#: mundo.trung_bak_18012019.php:3215
+msgid "Fully Booked"
+msgstr ""
+
+#: mundo.trung_bak_22012019.php:3376 mundo.trung_bak_25012019.php:3500
+#: mundo.trung_bak_01092019.php:3089 mundo.php:3500
+#: mundo.trung_bak_18012019.php:3215
+msgid "Available"
+msgstr ""
+
+#: mundo.trung_bak_22012019.php:3377 mundo.trung_bak_25012019.php:3501
+#: mundo.trung_bak_01092019.php:3090 mundo.php:3501
+#: mundo.trung_bak_18012019.php:3216
+msgid "fully"
+msgstr ""
+
+#: mundo.trung_bak_22012019.php:3377 mundo.trung_bak_25012019.php:3501
+#: mundo.trung_bak_01092019.php:3090 mundo.php:3501
+#: mundo.trung_bak_18012019.php:3216
+msgid "available"
+msgstr ""
+
+#: mundo.trung_bak_22012019.php:4148 mundo.trung_bak_22012019.php:4473
+#: mundo.trung_bak_22012019.php:4631 mundo.trung_bak_22012019.php:4634
+#: mundo.trung_bak_25012019.php:4272 mundo.trung_bak_25012019.php:4597
+#: mundo.trung_bak_25012019.php:4755 mundo.trung_bak_25012019.php:4758
+#: mundo.trung_bak_01092019.php:3825 mundo.trung_bak_01092019.php:4129
+#: mundo.trung_bak_01092019.php:4270 mundo.trung_bak_01092019.php:4273
+#: mundo.php:4272 mundo.php:4597 mundo.php:4755 mundo.php:4758
+#: mundo.trung_bak_18012019.php:3981 mundo.trung_bak_18012019.php:4305
+#: mundo.trung_bak_18012019.php:4463 mundo.trung_bak_18012019.php:4466
+msgid "Show more"
+msgstr ""
+
+#: mundo.trung_bak_22012019.php:4305 mundo.trung_bak_22012019.php:4425
+#: mundo.trung_bak_22012019.php:5405 mundo.trung_bak_25012019.php:4429
+#: mundo.trung_bak_25012019.php:4549 mundo.trung_bak_25012019.php:5575
+#: mundo.trung_bak_01092019.php:3968 mundo.trung_bak_01092019.php:4082
+#: mundo.php:4429 mundo.php:4549 mundo.php:5576
+#: mundo.trung_bak_18012019.php:4137 mundo.trung_bak_18012019.php:4257
+#: mundo.trung_bak_18012019.php:5218
+msgid "Highlights"
+msgstr ""
+
+#: mundo.trung_bak_22012019.php:4323 mundo.trung_bak_22012019.php:4442
+#: mundo.trung_bak_22012019.php:5426 mundo.trung_bak_25012019.php:4447
+#: mundo.trung_bak_25012019.php:4566 mundo.trung_bak_25012019.php:5596
+#: mundo.trung_bak_01092019.php:3986 mundo.trung_bak_01092019.php:4099
+#: mundo.php:4447 mundo.php:4566 mundo.php:5597
+#: mundo.trung_bak_18012019.php:4155 mundo.trung_bak_18012019.php:4274
+#: mundo.trung_bak_18012019.php:5239
+msgid "On Request"
+msgstr ""
+
+#: mundo.trung_bak_22012019.php:4327 mundo.trung_bak_22012019.php:4445
+#: mundo.trung_bak_22012019.php:5429 mundo.trung_bak_25012019.php:4451
+#: mundo.trung_bak_25012019.php:4569 mundo.trung_bak_25012019.php:5599
+#: mundo.trung_bak_01092019.php:3990 mundo.trung_bak_01092019.php:4101
+#: mundo.php:4451 mundo.php:4569 mundo.php:5600
+#: mundo.trung_bak_18012019.php:4159 mundo.trung_bak_18012019.php:4277
+#: mundo.trung_bak_18012019.php:5242
+msgid "Price"
+msgstr ""
+
+#: mundo.trung_bak_22012019.php:4332 mundo.trung_bak_25012019.php:4456
+#: mundo.trung_bak_01092019.php:3995 mundo.php:4456
+#: mundo.trung_bak_18012019.php:4164
+msgid "View Tour"
+msgstr ""
+
+#: mundo.trung_bak_22012019.php:4448 mundo.trung_bak_22012019.php:5432
+#: mundo.trung_bak_25012019.php:4572 mundo.trung_bak_25012019.php:5602
+#: mundo.trung_bak_01092019.php:4104 mundo.php:4572 mundo.php:5603
+#: mundo.trung_bak_18012019.php:4280 mundo.trung_bak_18012019.php:5245
+msgid "View tour"
+msgstr ""
+
+#: mundo.trung_bak_22012019.php:4628 mundo.trung_bak_25012019.php:4752
+#: mundo.trung_bak_01092019.php:4267 mundo.php:4752
+#: mundo.trung_bak_18012019.php:4460
+msgid "More Reviews"
+msgstr ""
+
+#: mundo.trung_bak_22012019.php:4855 mundo.trung_bak_25012019.php:4979
+#: mundo.trung_bak_01092019.php:4494 mundo.php:4979
+#: mundo.trung_bak_18012019.php:4687
+msgid "Move to trash"
+msgstr ""
+
+#: mundo.trung_bak_22012019.php:4928 mundo.trung_bak_25012019.php:5052
+#: mundo.php:5052 mundo.trung_bak_18012019.php:5362
+msgid "time"
+msgstr ""
+
+#: mundo.trung_bak_22012019.php:4929 mundo.trung_bak_25012019.php:5053
+#: mundo.php:5053 mundo.trung_bak_18012019.php:5363
+msgid "adult"
+msgstr ""
+
+#: mundo.trung_bak_22012019.php:4930 mundo.trung_bak_25012019.php:5054
+#: mundo.php:5054 mundo.trung_bak_18012019.php:5364
+msgid "language"
+msgstr ""
+
+#: mundo.trung_bak_22012019.php:4931 mundo.trung_bak_25012019.php:5055
+#: mundo.php:5055 mundo.trung_bak_18012019.php:5365
+msgid "flight"
+msgstr ""
+
+#: mundo.trung_bak_22012019.php:5067 mundo.trung_bak_25012019.php:5192
+#: mundo.php:5192
+msgid "day"
+msgstr ""
+
+#: mundo.trung_bak_22012019.php:5076 mundo.trung_bak_25012019.php:5201
+#: mundo.php:5201
+msgid "$"
+msgstr ""
+
+#: mundo.trung_bak_22012019.php:5440 mundo.trung_bak_25012019.php:5610
+#: mundo.trung_bak_18012019.php:5253
+msgid "No result founds"
+msgstr ""
+
+#: mundo.trung_bak_22012019.php:5501 mundo.trung_bak_25012019.php:5671
+#: mundo.php:5674 mundo.trung_bak_18012019.php:5314
+msgid "Prev"
+msgstr ""
+
+#: mundo.trung_bak_22012019.php:5502 mundo.trung_bak_25012019.php:5672
+#: mundo.php:5675 mundo.trung_bak_18012019.php:5315
+msgid "Next"
+msgstr ""
+
+#: mundo.trung_bak_25012019.php:880 mundo.php:880
+msgid "pp"
+msgstr ""
+
+#: mundo.trung_bak_25012019.php:942 mundo.php:942
+msgid "Shortlisted"
+msgstr ""
+
+#: mundo.trung_bak_25012019.php:952 mundo.php:952
+msgid "No tour founed"
+msgstr ""
+
+#: mundo.php:5611
+msgid "Sorry, No result founds."
+msgstr ""
+
+#: mundo.php:5613
+msgid "Please change your filter or contact our travel consultant."
+msgstr ""
+
+#. Description of the plugin
+msgid "mundo"
+msgstr ""
+
+#. URI of the plugin
+msgid "http://liva.com.vn/plugins/mundo"
+msgstr ""
+
+#. Author of the plugin
+msgid "LIVA"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://liva.com.vn"
+msgstr ""

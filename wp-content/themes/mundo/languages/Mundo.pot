@@ -1,0 +1,777 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Mundo\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-02-26 04:58+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: single-travel-guide.php:54
+msgid "Languages Spoken"
+msgstr ""
+
+#: single-travel-guide.php:55 single-destination.php:199
+msgid "Currency"
+msgstr ""
+
+#: single-travel-guide.php:56
+msgid "Time Zones"
+msgstr ""
+
+#: single-travel-guide.php:57
+msgid "Weather"
+msgstr ""
+
+#: single-travel-guide.php:78
+msgid "Best"
+msgstr ""
+
+#: single-travel-guide.php:78
+msgid "Destination Of"
+msgstr ""
+
+#: single-travel-guide.php:178
+msgid "Travel nfomation"
+msgstr ""
+
+#: single-travel-guide.php:235
+msgid "Traveller"
+msgstr ""
+
+#: single-travel-guide.php:235 single-excursion.php:88 single-excursion.php:255
+msgid "Reviews"
+msgstr ""
+
+#: single-tour.php:14
+msgid "Remove tour"
+msgstr ""
+
+#: single-tour.php:16 single-tour.php:19
+msgid "Save tour"
+msgstr ""
+
+#: single-tour.php:88 single-excursion.php:55 single-hotel.php:49
+#: single-destination.php:42 single-post.php:35 single-restaurant.php:24
+#: templates/page-excursion.php:37 templates/page-excursion.php:59
+msgid "Home"
+msgstr ""
+
+#: single-tour.php:88 single-destination.php:42 single-restaurant.php:24
+msgid "Destination"
+msgstr ""
+
+#: single-tour.php:136 single-excursion.php:98 single-destination.php:82
+msgid "Share"
+msgstr ""
+
+#: single-tour.php:145 single-excursion.php:107 single-destination.php:91
+msgid "Facebook"
+msgstr ""
+
+#: single-tour.php:169 single-excursion.php:123
+msgid "Download PDF"
+msgstr ""
+
+#: single-tour.php:202 single-tour.php:476 single-tour.php:719
+#: single-tour.php:806 single-tour.php:810
+msgid "BOOK NOW"
+msgstr ""
+
+#: single-tour.php:219
+msgid "Language spoken on tour"
+msgstr ""
+
+#: single-tour.php:233
+msgid "Places visited"
+msgstr ""
+
+#: single-tour.php:253 single-tour.php:627 single-tour.php:629
+#: single-hotel.php:70 woocommerce/emails/email-order-details.php:73
+#: woocommerce/emails/email-order-details.php:89
+#: woocommerce/emails/email-order-items.php:75
+msgid "On Request"
+msgstr ""
+
+#: single-tour.php:265
+msgid "Days"
+msgstr ""
+
+#: single-tour.php:266 single-hotel.php:73 single-restaurant.php:49
+msgid "Style"
+msgstr ""
+
+#: single-tour.php:269 single-excursion.php:185 single-post.php:156
+#: excursion/price-box.php:26 excursion/price-box.php:44
+#: excursion/check-out.php:106
+msgid "From"
+msgstr ""
+
+#: single-tour.php:273 excursion/price-box-tab.php:47
+msgid "Price"
+msgstr ""
+
+#: single-tour.php:380
+msgid "No meals"
+msgstr ""
+
+#: single-tour.php:381
+msgid "Breakfast"
+msgstr ""
+
+#: single-tour.php:382
+msgid "Lunch"
+msgstr ""
+
+#: single-tour.php:383
+msgid "Dinner"
+msgstr ""
+
+#: single-tour.php:385
+msgid "Meals"
+msgstr ""
+
+#: single-tour.php:397
+msgid "Visited"
+msgstr ""
+
+#: single-tour.php:408
+msgid "Accomodation"
+msgstr ""
+
+#: single-tour.php:414
+msgid "Day "
+msgstr ""
+
+#: single-tour.php:493 single-destination.php:67 single-destination.php:322
+#: templates/page-excursion.php:156
+msgid "Gallery"
+msgstr ""
+
+#: single-tour.php:510
+msgid "Calculate"
+msgstr ""
+
+#: single-tour.php:510
+msgid "<span>best rate</span>"
+msgstr ""
+
+#: single-tour.php:510
+msgid "Dates &"
+msgstr ""
+
+#: single-tour.php:510
+msgid "Availability"
+msgstr ""
+
+#: single-tour.php:610
+msgid "No"
+msgstr ""
+
+#: single-tour.php:611
+msgid "Yes"
+msgstr ""
+
+#: single-tour.php:646 excursion/price-box-tab.php:66
+#: excursion/check-out.php:49
+msgid "Departure date"
+msgstr ""
+
+#: single-tour.php:648 excursion/price-box-tab.php:112
+#: excursion/price-box-tab.php:119 excursion/check-out.php:57
+msgid "Adult"
+msgstr ""
+
+#: single-tour.php:650 single-tour.php:661 single-destination.php:181
+#: excursion/price-box-tab.php:61
+msgid "Language"
+msgstr ""
+
+#: single-tour.php:667 single-tour.php:693
+msgid "Close"
+msgstr ""
+
+#: single-tour.php:676 single-tour.php:687
+msgid "Flight"
+msgstr ""
+
+#: single-tour.php:702
+msgid "Per person"
+msgstr ""
+
+#: single-tour.php:704 excursion/check-out.php:116
+msgid "Total"
+msgstr ""
+
+#: single-tour.php:732 single-tour.php:792
+msgid "Departing"
+msgstr ""
+
+#: single-tour.php:733 single-tour.php:793
+msgid "Finishing"
+msgstr ""
+
+#: single-tour.php:736 single-tour.php:794
+msgid "Total from  USD"
+msgstr ""
+
+#: single-tour.php:778
+msgid "Fully Booked"
+msgstr ""
+
+#: single-tour.php:778
+msgid "Available"
+msgstr ""
+
+#: single-tour.php:779
+msgid "fully"
+msgstr ""
+
+#: single-tour.php:779 functions.php:3298 functions.php:3358
+msgid "available"
+msgstr ""
+
+#: single-tour.php:816 single-excursion.php:323 single-excursion.php:369
+#: single-destination.php:289 single-destination.php:559 single-post.php:274
+msgid "Show more"
+msgstr ""
+
+#: single-tour.php:871
+msgid "Tour"
+msgstr ""
+
+#: single-tour.php:871
+msgid "information"
+msgstr ""
+
+#: single-tour.php:946
+msgid "More "
+msgstr ""
+
+#: single-tour.php:946
+msgid "inspiration"
+msgstr ""
+
+#: single-excursion.php:55 functions.php:3501 templates/page-excursion.php:37
+#: templates/page-excursion.php:59
+msgid "Excursion"
+msgstr ""
+
+#: single-excursion.php:86 single-excursion.php:152 single-destination.php:66
+msgid "Highlights"
+msgstr ""
+
+#: single-excursion.php:87
+msgid "Excursion information"
+msgstr ""
+
+#: single-excursion.php:141
+msgid "CHECK AVAILABILITY"
+msgstr ""
+
+#: single-excursion.php:179
+msgid "About this trip"
+msgstr ""
+
+#: single-excursion.php:217
+msgid "<span>Excursion</span> information"
+msgstr ""
+
+#: single-excursion.php:221
+msgid "Itinerary"
+msgstr ""
+
+#: single-excursion.php:225 single-excursion.php:229
+msgid "Inclusions & Exclusions"
+msgstr ""
+
+#: single-excursion.php:233
+msgid "How to book & pay"
+msgstr ""
+
+#: single-excursion.php:237
+msgid "Cancellation policy"
+msgstr ""
+
+#: single-excursion.php:241
+msgid "Tips and advice"
+msgstr ""
+
+#: single-excursion.php:382
+msgid "Recommended Excursions"
+msgstr ""
+
+#: single-excursion.php:389 single-destination.php:484
+#: templates/page-excursion.php:167
+msgid "Meet our"
+msgstr ""
+
+#: single-excursion.php:389 single-destination.php:484
+#: templates/page-excursion.php:167
+msgid "experts"
+msgstr ""
+
+#: functions.php:44
+msgid "Destinations"
+msgstr ""
+
+#: functions.php:45 single-destination.php:261
+msgid "Experiences"
+msgstr ""
+
+#: functions.php:46 functions.php:50 excursion/price-box-tab.php:162
+msgid "Departure"
+msgstr ""
+
+#: functions.php:47
+msgid "Choose destination here"
+msgstr ""
+
+#: functions.php:48
+msgid "Choose style here"
+msgstr ""
+
+#: functions.php:49
+msgid "Choose duration here"
+msgstr ""
+
+#: functions.php:51 functions.php:3291 functions.php:3350
+msgid "or"
+msgstr ""
+
+#: functions.php:53
+msgid "Your email  address"
+msgstr ""
+
+#: functions.php:54
+msgid "SIGN UP"
+msgstr ""
+
+#: functions.php:55
+msgid "Read more"
+msgstr ""
+
+#: functions.php:56
+msgid "Please fill out this field "
+msgstr ""
+
+#: functions.php:57
+msgid "This field is required"
+msgstr ""
+
+#: functions.php:58
+msgid "Invalid email"
+msgstr ""
+
+#: functions.php:59
+msgid ""
+"text_translate_special__Cambodia__Ho Chi Minh Cidade de__Ho Chi Minh city"
+msgstr ""
+
+#: functions.php:3272
+msgid "(available"
+msgstr ""
+
+#: single-hotel.php:74
+msgid "No. of rooms"
+msgstr ""
+
+#: single-hotel.php:75 single-hotel.php:154 single-restaurant.php:48
+#: single-restaurant.php:143
+msgid "Location"
+msgstr ""
+
+#: single-hotel.php:79
+msgid "Key features"
+msgstr ""
+
+#: single-hotel.php:191
+msgid "Things"
+msgstr ""
+
+#: single-hotel.php:191
+msgid "to do"
+msgstr ""
+
+#: single-hotel.php:204 single-restaurant.php:167
+msgid "Alternative"
+msgstr ""
+
+#: single-hotel.php:204
+msgid "places to stay nearby"
+msgstr ""
+
+#: 404.php:8
+msgid "404"
+msgstr ""
+
+#: 404.php:9
+msgid "We're sorry, the page you requested could not be found!"
+msgstr ""
+
+#: 404.php:10
+msgid "BACK TO HOMEPAGE"
+msgstr ""
+
+#: footer.php:9
+msgid "Mundo Asia Vietnam"
+msgstr ""
+
+#: footer.php:10
+msgid "Mundo Asia Thailand"
+msgstr ""
+
+#: footer.php:13
+msgid "Support"
+msgstr ""
+
+#: footer.php:49
+msgid "Privacy policy"
+msgstr ""
+
+#: footer.php:50
+msgid "Booking terms and conditions"
+msgstr ""
+
+#: footer.php:51
+msgid "Frequently asked questions"
+msgstr ""
+
+#: footer.php:65
+msgid "Payment"
+msgstr ""
+
+#: single-destination.php:64 single-destination.php:149
+msgid "Overview"
+msgstr ""
+
+#: single-destination.php:65
+msgid "Itineraries"
+msgstr ""
+
+#: single-destination.php:68
+msgid "Information"
+msgstr ""
+
+#: single-destination.php:69
+msgid "Experts"
+msgstr ""
+
+#: single-destination.php:109
+msgid "Twitter"
+msgstr ""
+
+#: single-destination.php:136 header.php:359
+msgid "MAKE AN ENQUIRY"
+msgstr ""
+
+#: single-destination.php:172
+msgid "Capital"
+msgstr ""
+
+#: single-destination.php:190
+msgid "Population"
+msgstr ""
+
+#: single-destination.php:208
+msgid "Time zone"
+msgstr ""
+
+#: single-destination.php:217
+msgid "Calling code"
+msgstr ""
+
+#: single-destination.php:261
+msgid "Inspiring"
+msgstr ""
+
+#: single-destination.php:261 single-destination.php:433
+#: single-destination.php:461
+msgid "in"
+msgstr ""
+
+#: single-destination.php:287 excursion/price-box.php:25
+msgid "Group"
+msgstr ""
+
+#: single-destination.php:287
+msgid "tours"
+msgstr ""
+
+#: single-destination.php:314 templates/page-excursion.php:105
+msgid " highlights"
+msgstr ""
+
+#: single-destination.php:341 single-destination.php:343
+msgid "Information:"
+msgstr ""
+
+#: single-destination.php:378
+msgid "Trip <span style=\"color:black;\">review</span>"
+msgstr ""
+
+#: single-destination.php:433
+msgid "Hotels"
+msgstr ""
+
+#: single-destination.php:456 single-destination.php:470
+msgid "SHOW MORE"
+msgstr ""
+
+#: single-destination.php:461
+msgid "Restaurants"
+msgstr ""
+
+#: single-destination.php:557 templates/page-excursion.php:119
+msgid "Travel"
+msgstr ""
+
+#: single-destination.php:557
+msgid "inspirations"
+msgstr ""
+
+#: header.php:179
+msgid "SHORTLIST"
+msgstr ""
+
+#: header.php:324
+msgid "WhatsApp"
+msgstr ""
+
+#: header.php:329
+msgid "Hotline"
+msgstr ""
+
+#: header.php:332
+msgid "Our customer Support"
+msgstr ""
+
+#: header.php:333
+msgid "Vietnam"
+msgstr ""
+
+#: header.php:334
+msgid "Thailand"
+msgstr ""
+
+#: single-post.php:35
+msgid "About"
+msgstr ""
+
+#: single-post.php:35
+msgid "Blog"
+msgstr ""
+
+#: single-post.php:57
+msgid "Categories:"
+msgstr ""
+
+#: single-post.php:158
+msgid "View tour"
+msgstr ""
+
+#: single-post.php:181
+msgid "Share: "
+msgstr ""
+
+#: single-post.php:215 single-post.php:216
+msgid "Search article"
+msgstr ""
+
+#: single-post.php:234
+msgid "Popular posts"
+msgstr ""
+
+#: single-post.php:273
+msgid "Discover"
+msgstr ""
+
+#: single-post.php:273
+msgid "more posts"
+msgstr ""
+
+#: single-restaurant.php:50
+msgid "No. Of Seats"
+msgstr ""
+
+#: single-restaurant.php:55
+msgid "Key Features"
+msgstr ""
+
+#: single-restaurant.php:131
+msgid "Meals Sample"
+msgstr ""
+
+#: single-restaurant.php:135
+msgid "Map"
+msgstr ""
+
+#: single-restaurant.php:167
+msgid "Restaurants Nearby"
+msgstr ""
+
+#: templates/page-excursion.php:80
+msgid "<span>Recommended</span> itineraries"
+msgstr ""
+
+#: templates/page-excursion.php:119 excursion/check-out.php:120
+msgid "Guide"
+msgstr ""
+
+#: excursion/price-box-tab.php:26
+msgid "Monday"
+msgstr ""
+
+#: excursion/price-box-tab.php:26
+msgid "Tuesday"
+msgstr ""
+
+#: excursion/price-box-tab.php:26
+msgid "Wednesday"
+msgstr ""
+
+#: excursion/price-box-tab.php:26
+msgid "Thursday"
+msgstr ""
+
+#: excursion/price-box-tab.php:26
+msgid "Friday"
+msgstr ""
+
+#: excursion/price-box-tab.php:26
+msgid "Saturday"
+msgstr ""
+
+#: excursion/price-box-tab.php:26
+msgid "Sunday"
+msgstr ""
+
+#: excursion/price-box-tab.php:51
+msgid "person"
+msgstr ""
+
+#: excursion/price-box-tab.php:73
+msgid "Daily"
+msgstr ""
+
+#: excursion/price-box-tab.php:79
+msgid "Departure time"
+msgstr ""
+
+#: excursion/price-box-tab.php:84
+msgid "Accommodation"
+msgstr ""
+
+#: excursion/price-box-tab.php:89 excursion/check-out.php:144
+msgid "Pick-up point"
+msgstr ""
+
+#: excursion/price-box-tab.php:97
+msgid "Select participants"
+msgstr ""
+
+#: excursion/price-box-tab.php:113 excursion/price-box-tab.php:127
+#: excursion/check-out.php:58 excursion/check-out.php:72
+msgid "Youth"
+msgstr ""
+
+#: excursion/price-box-tab.php:114 excursion/price-box-tab.php:135
+#: excursion/check-out.php:59 excursion/check-out.php:80
+msgid "Children"
+msgstr ""
+
+#: excursion/price-box-tab.php:115 excursion/price-box-tab.php:143
+#: excursion/check-out.php:60 excursion/check-out.php:88
+msgid "Infant"
+msgstr ""
+
+#: excursion/price-box-tab.php:119 excursion/check-out.php:64
+msgid "Age 12+"
+msgstr ""
+
+#: excursion/price-box-tab.php:119
+msgid "- minimum of 2 participants"
+msgstr ""
+
+#: excursion/price-box-tab.php:127 excursion/check-out.php:72
+msgid "Age 8 - 11"
+msgstr ""
+
+#: excursion/price-box-tab.php:135 excursion/check-out.php:80
+msgid "Age 4 - 7"
+msgstr ""
+
+#: excursion/price-box-tab.php:143 excursion/check-out.php:88
+msgid "Age <3"
+msgstr ""
+
+#: excursion/price-box-tab.php:153
+msgid "Select travel date"
+msgstr ""
+
+#: excursion/price-box-tab.php:177
+msgid "Book now"
+msgstr ""
+
+#: excursion/price-box.php:43
+msgid "Private"
+msgstr ""
+
+#: excursion/check-out.php:54
+msgid "Number of travelers"
+msgstr ""
+
+#: excursion/check-out.php:100
+msgid "Duration"
+msgstr ""
+
+#: excursion/check-out.php:130
+msgid ""
+"Please fill in your details below anh we will contact you within 24 to 48 "
+"hours"
+msgstr ""
+
+#: excursion/check-out.php:133
+msgid "Your full name *"
+msgstr ""
+
+#: excursion/check-out.php:136
+msgid "Email address *"
+msgstr ""
+
+#: excursion/check-out.php:147
+msgid "Phone number"
+msgstr ""
+
+#: excursion/check-out.php:151
+msgid ""
+"Anything else we should know?\n"
+"Hotel standard, special interests, budget per person..."
+msgstr ""
+
+#: excursion/check-out.php:155
+msgid "SEND YOUR REQUEST"
+msgstr ""
+
+#. Name of the theme
+msgid "Mundo"
+msgstr ""
+
+#. URI of the theme
+msgid "http://www.designlabthemes.com/divi-wordpress-theme/"
+msgstr ""
+
+#. Author of the theme
+msgid "LIVA"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://www.designlabthemes.com/"
+msgstr ""

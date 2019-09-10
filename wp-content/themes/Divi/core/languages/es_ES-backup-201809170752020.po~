@@ -1,0 +1,108 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Divi 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/init\n"
+"POT-Creation-Date: 2018-06-28 03:46+0000\n"
+"PO-Revision-Date: 2018-06-28 03:44+0000\n"
+"Last-Translator: user <liva.hienptt@gmail.com>\n"
+"Language-Team: Spanish (Spain)\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;"
+"_nx_noop:1,2,3c;esc_attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;"
+"esc_html_x:1,2c\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+"X-Poedit-SearchPathExcluded-0: ../includes/builder\n"
+"X-Poedit-SearchPathExcluded-1: ../node_modules"
+
+#. Name of the template
+msgid "Blank Page"
+msgstr ""
+
+#: core/components/Updates.php:25
+#, php-format
+msgid "%s: You cannot create a second instance of this class."
+msgstr "%s: No puede crear una segunda instancia de esta clase."
+
+#: core/components/Updates.php:421
+msgid ""
+"<em>Before you can receive product updates, you must first authenticate your "
+"Elegant Themes subscription. To do this, you need to enter both your Elegant "
+"Themes Username and your Elegant Themes API Key into the Updates Tab in your "
+"theme and plugin settings. To locate your API Key, <a href=\"https://www."
+"elegantthemes.com/members-area/api/\" target=\"_blank\">log in</a> to your "
+"Elegant Themes account and navigate to the <strong>Account > API Key</strong>"
+" page. <a href=\"http://www.elegantthemes."
+"com/gallery/divi/documentation/update/\" target=\"_blank\">Learn more "
+"here</a></em>. If you still get this message, please make sure that your "
+"Username and API Key have been entered correctly"
+msgstr ""
+"<em>Para poder recibir actualizaciones de productos, debe autentificar su "
+"suscripción de Elegant Themes. Para ello, debe introducir su nombre de "
+"usuario y su clave API de Elegant Themes en la Pestaña de actualizaciones "
+"dentro de sus ajustes de temas y complementos. Para localizar su clave API, "
+"<a href=\"https://www.elegantthemes.com/members-area/api/\" "
+"target=\"_blank\">inicie sesión</a> en su cuenta de Elegant Themes y acceda "
+"a la página de <strong>Cuenta > Clave API</strong>. <a href=\"http://www."
+"elegantthemes.com/gallery/divi/documentation/update/\" target=\"_blank\">"
+"Obtenga más información aquí</a></em>. Si sigue recibiendo este mensaje, "
+"asegúrese de que el nombre de usuario y la clave API que ha introducido son "
+"correctos."
+
+#: core/components/Updates.php:423
+msgid ""
+"Automatic updates currently unavailable. For all Elegant Themes products, "
+"please <a href=\"http://www.elegantthemes."
+"com/gallery/divi/documentation/update/\" target=\"_blank\">authenticate your "
+"subscription</a> via the Updates tab in your theme & plugin settings to "
+"enable product updates. Make sure that your Username and API Key have been "
+"entered correctly."
+msgstr ""
+"En estos momentos, las actualizaciones automáticas no están disponibles. "
+"Para activar las actualizaciones de todos los productos de Elegant Themes, "
+"<a href=\"http://www.elegantthemes.com/gallery/divi/documentation/update/\" "
+"target=\"_blank\">autentifique su suscripción</a> desde la Pestaña de "
+"actualizaciones en sus ajustes de temas y complementos. Asegúrese de que el "
+"nombre de usuario y la clave API que ha introducido son correctos."
+
+#: core/components/Updates.php:447
+msgid ""
+"Your Elegant Themes subscription has expired. You must <a href=\"https://www."
+"elegantthemes.com/members-area/\" target=\"_blank\">renew your account</a> "
+"to regain access to product updates and support. To ensure compatibility and "
+"security, it is important to always keep your themes and plugins updated."
+msgstr ""
+"Su suscripción de Elegant Themes ha caducado. Debe <a href=\"https://www."
+"elegantthemes.com/members-area/\" target=\"_blank\">renovar su cuenta</a> "
+"para volver a tener acceso a las actualizaciones y asistencia de los "
+"productos. Para garantizar la compatibilidad y la seguridad, es importante "
+"que siempre mantenga sus temas y complementos actualizados."
+
+#. Name of the theme
+msgid "Divi"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Smart. Flexible. Beautiful. Divi is the most powerful theme in our "
+"collection."
+msgstr ""
+
+#. URI of the theme
+msgid "http://www.elegantthemes.com/gallery/divi/"
+msgstr ""
+
+#. Author of the theme
+msgid "Elegant Themes"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://www.elegantthemes.com"
+msgstr ""

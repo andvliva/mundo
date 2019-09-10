@@ -1,0 +1,789 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: LIVA Divi Builder\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-10-20 03:19+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: class-blog-list-show-more.php:5
+msgid "Blog list post show more"
+msgstr ""
+
+#: class-blog-list-show-more.php:19 class-custom-post-show-more.php:22
+#: class-custom-post.php:21
+msgid "Show more posts"
+msgstr ""
+
+#: class-blog-list-show-more.php:29 class-custom-post-show-more.php:32
+msgid "Number posts more"
+msgstr ""
+
+#: class-blog-list-show-more.php:326 class-blog-list-show-more.php:332
+#: class-blog-list-show-more.php:353 class-post-fullwidth-slider.php:266
+#: class-custom-post-show-more.php:312 class-custom-post-show-more.php:319
+#: class-custom-post-show-more.php:342 class-custom-post.php:304
+#: class-custom-post.php:311 class-custom-post.php:334
+#: class-custom-post.php:692 class-custom-post.php:714
+#: class-post-travel-about.php:302 class-post-travel-about.php:327
+#: class-post-travel-about.php:697 class-slider-tours.php:297
+#: class-slider-tours.php:336 class-slider-tours.php:719
+#: class-posts-slider-with-js.php:289 class-post-owlcarousel.php:308
+#: class-post-slider-with-js.php:291 class-blog-list.php:310
+#: class-blog-list.php:316 class-blog-list.php:337 class-blog-list.php:709
+#: class-custom-post2.php:235 class-custom-post2.php:259
+#: class-custom-post2.php:636 class-tour-child-sliderItem.php:295
+#: class-tour-child-sliderItem.php:334 class-tour-child-sliderItem.php:719
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: class-blog-list-show-more.php:343 class-post-fullwidth-slider.php:265
+#: class-custom-post-show-more.php:332 class-custom-post.php:324
+#: class-custom-post.php:704 class-post-travel-about.php:317
+#: class-post-travel-about.php:687 class-slider-tours.php:326
+#: class-slider-tours.php:709 class-posts-slider-with-js.php:279
+#: class-post-owlcarousel.php:298 class-post-slider-with-js.php:281
+#: class-blog-list.php:327 class-blog-list.php:699 class-custom-post2.php:249
+#: class-custom-post2.php:626 class-tour-child-sliderItem.php:324
+#: class-tour-child-sliderItem.php:709
+#, php-format
+msgid "by %s"
+msgstr ""
+
+#: class-blog-list-show-more.php:373 class-post-fullwidth-slider.php:268
+#: class-post-fullwidth-slider.php:420 class-custom-post-show-more.php:362
+#: class-custom-post.php:354 class-custom-post.php:734
+#: class-post-travel-about.php:347 class-post-travel-about.php:717
+#: class-slider-tours.php:356 class-slider-tours.php:739
+#: class-posts-slider-with-js.php:310 class-post-owlcarousel.php:328
+#: class-post-slider-with-js.php:312 class-blog-list.php:357
+#: class-blog-list.php:729 class-custom-post2.php:279
+#: class-custom-post2.php:656 class-tour-child-sliderItem.php:354
+#: class-tour-child-sliderItem.php:739
+#, php-format
+msgctxt "number of comments"
+msgid "%s Comment"
+msgid_plural "%s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: class-blog-list-show-more.php:395 class-custom-post-show-more.php:387
+#: class-custom-post.php:379 class-custom-post.php:764
+#: class-post-travel-about.php:369 class-post-travel-about.php:745
+#: class-slider-tours.php:379 class-slider-tours.php:767
+#: class-posts-slider-with-js.php:358 class-post-owlcarousel.php:349
+#: class-post-slider-with-js.php:398 class-blog-list.php:380
+#: class-blog-list.php:757 class-custom-post2.php:303
+#: class-custom-post2.php:684 class-tour-child-sliderItem.php:377
+#: class-tour-child-sliderItem.php:767
+msgid "read more..."
+msgstr ""
+
+#: class-blog-list-show-more.php:453
+msgid "Show More"
+msgstr ""
+
+#: class-our-suites.php:6
+msgid "Our Suites"
+msgstr ""
+
+#: class-slider-3-image-sliderItem.php:5
+msgid "Slide 3 img"
+msgstr ""
+
+#: class-slider-3-image-sliderItem.php:42
+msgid "New Slide"
+msgstr ""
+
+#: class-slider-3-image-sliderItem.php:43
+msgid "Slide Settings"
+msgstr ""
+
+#: class-slider-3-image-sliderItem.php:49
+#: class-slider-3-image-sliderItem.php:66 class-custom-sliderItem.php:49
+#: class-custom-sliderItem.php:66 class-owlcarousel-sliderItem.php:49
+#: class-owlcarousel-sliderItem.php:66
+msgid "Text"
+msgstr ""
+
+#: class-slider-3-image-sliderItem.php:50 class-custom-sliderItem.php:50
+#: class-owlcarousel-sliderItem.php:50
+msgid "Link"
+msgstr ""
+
+#: class-slider-3-image-sliderItem.php:51 class-custom-sliderItem.php:51
+#: class-owlcarousel-sliderItem.php:51
+msgid "Image & Video"
+msgstr ""
+
+#: class-slider-3-image-sliderItem.php:52 class-custom-sliderItem.php:52
+#: class-owlcarousel-sliderItem.php:52
+msgid "Player Pause"
+msgstr ""
+
+#: class-slider-3-image-sliderItem.php:53 class-custom-slider.php:52
+#: class-custom-sliderItem.php:53 class-owlcarousel-sliderItem.php:53
+msgid "Background"
+msgstr ""
+
+#: class-slider-3-image-sliderItem.php:54
+#: class-slider-3-image-sliderItem.php:351 class-custom-slider.php:236
+#: class-custom-sliderItem.php:54 class-custom-sliderItem.php:351
+#: class-owlcarousel-sliderItem.php:54 class-owlcarousel-sliderItem.php:351
+msgid "Admin Label"
+msgstr ""
+
+#: class-slider-3-image-sliderItem.php:59 class-custom-sliderItem.php:59
+#: class-owlcarousel-sliderItem.php:59
+msgid "Overlay"
+msgstr ""
+
+#: class-slider-3-image-sliderItem.php:60 class-custom-sliderItem.php:60
+#: class-owlcarousel-sliderItem.php:60
+msgid "Navigation"
+msgstr ""
+
+#: class-slider-3-image-sliderItem.php:61 class-custom-sliderItem.php:61
+#: class-owlcarousel-sliderItem.php:61
+msgid "Alignment"
+msgstr ""
+
+#: class-slider-3-image-sliderItem.php:63 class-custom-sliderItem.php:63
+#: class-owlcarousel-sliderItem.php:63
+msgid "Image"
+msgstr ""
+
+#: class-slider-3-image-sliderItem.php:74 class-custom-sliderItem.php:74
+#: class-owlcarousel-sliderItem.php:74
+msgid "Attributes"
+msgstr ""
+
+#: class-slider-3-image-sliderItem.php:84 class-custom-slider.php:73
+#: class-overview.php:15 class-custom-sliderItem.php:84
+#: class-owlcarousel-sliderItem.php:84
+msgid "Title"
+msgstr ""
+
+#: class-slider-3-image-sliderItem.php:102 class-custom-slider.php:86
+#: class-custom-sliderItem.php:102 class-owlcarousel-sliderItem.php:102
+msgid "Body"
+msgstr ""
+
+#: class-slider-3-image-sliderItem.php:119 class-custom-slider.php:100
+#: class-custom-sliderItem.php:119 class-owlcarousel-sliderItem.php:119
+msgid "Button"
+msgstr ""
+
+#: class-slider-3-image-sliderItem.php:164 class-custom-slider.php:135
+#: class-custom-sliderItem.php:164 class-owlcarousel-sliderItem.php:164
+msgid "Slide Title"
+msgstr ""
+
+#: class-slider-3-image-sliderItem.php:168 class-custom-sliderItem.php:168
+#: class-owlcarousel-sliderItem.php:168
+msgid "Slide Description Container"
+msgstr ""
+
+#: class-slider-3-image-sliderItem.php:172 class-custom-slider.php:131
+#: class-custom-sliderItem.php:172 class-owlcarousel-sliderItem.php:172
+msgid "Slide Description"
+msgstr ""
+
+#: class-slider-3-image-sliderItem.php:176 class-custom-slider.php:139
+#: class-custom-sliderItem.php:176 class-owlcarousel-sliderItem.php:176
+msgid "Slide Button"
+msgstr ""
+
+#: class-slider-3-image-sliderItem.php:181
+#: class-slider-3-image-sliderItem.php:211 class-custom-slider.php:152
+#: class-custom-sliderItem.php:181 class-custom-sliderItem.php:211
+#: class-owlcarousel-sliderItem.php:181 class-owlcarousel-sliderItem.php:211
+msgid "Slide Image"
+msgstr ""
+
+#: class-slider-3-image-sliderItem.php:190 class-custom-sliderItem.php:190
+#: class-owlcarousel-sliderItem.php:190
+msgid "Heading"
+msgstr ""
+
+#: class-slider-3-image-sliderItem.php:193 class-custom-sliderItem.php:193
+#: class-owlcarousel-sliderItem.php:193
+msgid "Define the title text for your slide."
+msgstr ""
+
+#: class-slider-3-image-sliderItem.php:197 class-custom-sliderItem.php:197
+#: class-owlcarousel-sliderItem.php:197
+msgid "Button Text"
+msgstr ""
+
+#: class-slider-3-image-sliderItem.php:200 class-custom-sliderItem.php:200
+#: class-owlcarousel-sliderItem.php:200
+msgid "Define the text for the slide button"
+msgstr ""
+
+#: class-slider-3-image-sliderItem.php:204 class-custom-sliderItem.php:204
+#: class-owlcarousel-sliderItem.php:204
+msgid "Button URL"
+msgstr ""
+
+#: class-slider-3-image-sliderItem.php:207 class-custom-sliderItem.php:207
+#: class-owlcarousel-sliderItem.php:207
+msgid "Input a destination URL for the slide button."
+msgstr ""
+
+#: class-slider-3-image-sliderItem.php:214 class-custom-sliderItem.php:214
+#: class-owlcarousel-sliderItem.php:214
+msgid "Upload an image"
+msgstr ""
+
+#: class-slider-3-image-sliderItem.php:215 class-custom-sliderItem.php:215
+#: class-owlcarousel-sliderItem.php:215
+msgid "Choose a Slide Image"
+msgstr ""
+
+#: class-slider-3-image-sliderItem.php:216 class-custom-sliderItem.php:216
+#: class-owlcarousel-sliderItem.php:216
+msgid "Set As Slide Image"
+msgstr ""
+
+#: class-slider-3-image-sliderItem.php:220 class-custom-sliderItem.php:220
+#: class-owlcarousel-sliderItem.php:220
+msgid ""
+"If defined, this slide image will appear to the left of your slide text. "
+"Upload an image, or leave blank for a text-only slide."
+msgstr ""
+
+#: class-slider-3-image-sliderItem.php:224 class-custom-sliderItem.php:224
+#: class-owlcarousel-sliderItem.php:224
+msgid "Use Background Overlay"
+msgstr ""
+
+#: class-slider-3-image-sliderItem.php:228
+#: class-slider-3-image-sliderItem.php:252
+#: class-slider-3-image-sliderItem.php:323 class-custom-slider.php:172
+#: class-custom-slider.php:183 class-custom-slider.php:194
+#: class-custom-slider.php:205 class-custom-slider.php:215
+#: class-custom-sliderItem.php:228 class-custom-sliderItem.php:252
+#: class-custom-sliderItem.php:323 class-post-owlcarousel.php:46
+#: class-owlcarousel-sliderItem.php:228 class-owlcarousel-sliderItem.php:252
+#: class-owlcarousel-sliderItem.php:323 class-owlcarousel-item.php:21
+msgid "No"
+msgstr ""
+
+#: class-slider-3-image-sliderItem.php:229
+#: class-slider-3-image-sliderItem.php:253 class-custom-sliderItem.php:229
+#: class-custom-sliderItem.php:253 class-owlcarousel-sliderItem.php:229
+#: class-owlcarousel-sliderItem.php:253
+msgid "yes"
+msgstr ""
+
+#: class-slider-3-image-sliderItem.php:236 class-custom-sliderItem.php:236
+#: class-owlcarousel-sliderItem.php:236
+msgid ""
+"When enabled, a custom overlay color will be added above your background "
+"image and behind your slider content."
+msgstr ""
+
+#: class-slider-3-image-sliderItem.php:239 class-custom-sliderItem.php:239
+#: class-owlcarousel-sliderItem.php:239
+msgid "Background Overlay Color"
+msgstr ""
+
+#: class-slider-3-image-sliderItem.php:243 class-custom-sliderItem.php:243
+#: class-owlcarousel-sliderItem.php:243
+msgid "Use the color picker to choose a color for the background overlay."
+msgstr ""
+
+#: class-slider-3-image-sliderItem.php:248 class-custom-sliderItem.php:248
+#: class-owlcarousel-sliderItem.php:248
+msgid "Use Text Overlay"
+msgstr ""
+
+#: class-slider-3-image-sliderItem.php:261 class-custom-sliderItem.php:261
+#: class-owlcarousel-sliderItem.php:261
+msgid ""
+"When enabled, a background color is added behind the slider text to make it "
+"more readable atop background images."
+msgstr ""
+
+#: class-slider-3-image-sliderItem.php:264 class-custom-sliderItem.php:264
+#: class-owlcarousel-sliderItem.php:264
+msgid "Text Overlay Color"
+msgstr ""
+
+#: class-slider-3-image-sliderItem.php:270 class-custom-sliderItem.php:270
+#: class-owlcarousel-sliderItem.php:270
+msgid "Use the color picker to choose a color for the text overlay."
+msgstr ""
+
+#: class-slider-3-image-sliderItem.php:273 class-custom-sliderItem.php:273
+#: class-owlcarousel-sliderItem.php:273
+msgid "Slide Image Vertical Alignment"
+msgstr ""
+
+#: class-slider-3-image-sliderItem.php:277 class-custom-sliderItem.php:277
+#: class-owlcarousel-sliderItem.php:277
+msgid "Center"
+msgstr ""
+
+#: class-slider-3-image-sliderItem.php:278 class-custom-sliderItem.php:278
+#: class-owlcarousel-sliderItem.php:278
+msgid "Bottom"
+msgstr ""
+
+#: class-slider-3-image-sliderItem.php:282 class-custom-sliderItem.php:282
+#: class-owlcarousel-sliderItem.php:282
+msgid ""
+"This setting determines the vertical alignment of your slide image. Your "
+"image can either be vertically centered, or aligned to the bottom of your "
+"slide."
+msgstr ""
+
+#: class-slider-3-image-sliderItem.php:285 class-custom-sliderItem.php:285
+#: class-owlcarousel-sliderItem.php:285
+msgid "Slide Video"
+msgstr ""
+
+#: class-slider-3-image-sliderItem.php:288 class-custom-sliderItem.php:288
+#: class-owlcarousel-sliderItem.php:288
+msgid ""
+"If defined, this video will appear to the left of your slide text. Enter "
+"youtube or vimeo page url, or leave blank for a text-only slide."
+msgstr ""
+
+#: class-slider-3-image-sliderItem.php:295 class-custom-sliderItem.php:295
+#: class-owlcarousel-sliderItem.php:295
+msgid "Image Alternative Text"
+msgstr ""
+
+#: class-slider-3-image-sliderItem.php:302 class-custom-sliderItem.php:302
+#: class-owlcarousel-sliderItem.php:302
+msgid ""
+"If you have a slide image defined, input your HTML ALT text for the image "
+"here."
+msgstr ""
+
+#: class-slider-3-image-sliderItem.php:307 class-custom-sliderItem.php:307
+#: class-owlcarousel-sliderItem.php:307
+msgid "Text Color"
+msgstr ""
+
+#: class-slider-3-image-sliderItem.php:311 class-custom-sliderItem.php:311
+#: class-owlcarousel-sliderItem.php:311
+msgid "Light"
+msgstr ""
+
+#: class-slider-3-image-sliderItem.php:312 class-custom-sliderItem.php:312
+#: class-owlcarousel-sliderItem.php:312
+msgid "Dark"
+msgstr ""
+
+#: class-slider-3-image-sliderItem.php:316 class-custom-sliderItem.php:316
+#: class-owlcarousel-sliderItem.php:316
+msgid ""
+"Here you can choose whether your text is light or dark. If you have a slide "
+"with a dark background, then choose light text. If you have a light "
+"background, then use dark text."
+msgstr ""
+
+#: class-slider-3-image-sliderItem.php:319 class-custom-sliderItem.php:319
+#: class-owlcarousel-sliderItem.php:319
+msgid "Pause Video When Another Video Plays"
+msgstr ""
+
+#: class-slider-3-image-sliderItem.php:324 class-custom-slider.php:171
+#: class-custom-slider.php:182 class-custom-slider.php:193
+#: class-custom-slider.php:204 class-custom-slider.php:216
+#: class-custom-sliderItem.php:324 class-post-owlcarousel.php:47
+#: class-owlcarousel-sliderItem.php:324 class-owlcarousel-item.php:22
+msgid "Yes"
+msgstr ""
+
+#: class-slider-3-image-sliderItem.php:327 class-custom-sliderItem.php:327
+#: class-owlcarousel-sliderItem.php:327
+msgid "Allow video to be paused by other players when they begin playing"
+msgstr ""
+
+#: class-slider-3-image-sliderItem.php:330 class-custom-sliderItem.php:330
+#: class-owlcarousel-sliderItem.php:330
+msgid "Content"
+msgstr ""
+
+#: class-slider-3-image-sliderItem.php:333 class-custom-sliderItem.php:333
+#: class-owlcarousel-sliderItem.php:333
+msgid "Input your main slide text content here."
+msgstr ""
+
+#: class-slider-3-image-sliderItem.php:337 class-custom-sliderItem.php:337
+#: class-owlcarousel-sliderItem.php:337
+msgid "Arrows Custom Color"
+msgstr ""
+
+#: class-slider-3-image-sliderItem.php:344 class-custom-sliderItem.php:344
+#: class-owlcarousel-sliderItem.php:344
+msgid "Dot Nav Custom Color"
+msgstr ""
+
+#: class-slider-3-image-sliderItem.php:353 class-custom-sliderItem.php:353
+#: class-owlcarousel-sliderItem.php:353
+msgid ""
+"This will change the label of the slide in the builder for easy "
+"identification."
+msgstr ""
+
+#: class-slider-3-image-sliderItem.php:357 class-custom-sliderItem.php:357
+#: class-owlcarousel-sliderItem.php:357
+msgid "Text Overlay Border Radius"
+msgstr ""
+
+#: class-gallery-masonry-item.php:6 class-gallery-masonry.php:10
+msgid "Slide Gallery Masonry"
+msgstr ""
+
+#: class-gallery-masonry-item.php:11
+msgid "New Slide Gallery Masonry"
+msgstr ""
+
+#: class-gallery-masonry-item.php:12
+msgid "Slide Gallery Masonry Settings"
+msgstr ""
+
+#: class-post-fullwidth-slider.php:5
+msgid "Custom post fullwidth slider"
+msgstr ""
+
+#: class-post-fullwidth-slider.php:21
+msgid "Post type"
+msgstr ""
+
+#: class-custom-post-show-more.php:5
+msgid "Custom Post Show More"
+msgstr ""
+
+#: class-custom-post-show-more.php:223
+msgid "Sort by: "
+msgstr ""
+
+#: class-custom-post-show-more.php:224 class-custom-post-show-more.php:227
+msgid "Most popular"
+msgstr ""
+
+#: class-custom-post-show-more.php:228
+msgid "Low to high"
+msgstr ""
+
+#: class-custom-post-show-more.php:229
+msgid "High to low"
+msgstr ""
+
+#: class-custom-post-show-more.php:232
+msgid "Results Found: "
+msgstr ""
+
+#: class-facility.php:6
+msgid "Ship facility"
+msgstr ""
+
+#: class-custom-post.php:5
+msgid "Custom post"
+msgstr ""
+
+#: class-custom-post.php:31 class-post-travel-about.php:18
+#: class-post-owlcarousel.php:36 class-fullwith-slider-with-text.php:18
+#: class-blog-list.php:18
+msgid "More text"
+msgstr ""
+
+#: class-custom-post.php:801 class-post-travel-about.php:782
+#: class-slider-tours.php:804 class-blog-list.php:794
+#: class-custom-post2.php:721 class-tour-child-sliderItem.php:804
+msgid "read more"
+msgstr ""
+
+#: class-suite-gallery.php:6
+msgid "Suite Gallery"
+msgstr ""
+
+#: class-suite-icons.php:6
+msgid "Suite Icons"
+msgstr ""
+
+#: class-custom-slider.php:4
+msgid "Custom Slider"
+msgstr ""
+
+#: class-custom-slider.php:8 class-owlcarousel-slider.php:9
+msgid "Slide owlcarousel"
+msgstr ""
+
+#: class-custom-slider.php:51
+msgid "Elements"
+msgstr ""
+
+#: class-custom-slider.php:57
+msgid "Layout"
+msgstr ""
+
+#: class-custom-slider.php:63
+msgid "Animation"
+msgstr ""
+
+#: class-custom-slider.php:144
+msgid "Slide Controllers"
+msgstr ""
+
+#: class-custom-slider.php:148
+msgid "Slide Active Controller"
+msgstr ""
+
+#: class-custom-slider.php:156
+msgid "Slide Arrows"
+msgstr ""
+
+#: class-custom-slider.php:160 class-owlcarousel-slider.php:14
+#: class-posts-slider-with-js.php:14 class-post-owlcarousel.php:17
+#: class-post-slider-with-js.php:14
+msgid "OwlCarousel options"
+msgstr ""
+
+#: class-custom-slider.php:167
+msgid "Show Arrows"
+msgstr ""
+
+#: class-custom-slider.php:175
+msgid "This setting will turn on and off the navigation arrows."
+msgstr ""
+
+#: class-custom-slider.php:178
+msgid "Show Controls"
+msgstr ""
+
+#: class-custom-slider.php:186
+msgid ""
+"This setting will turn on and off the circle buttons at the bottom of the "
+"slider."
+msgstr ""
+
+#: class-custom-slider.php:189
+msgid "Show Content On Mobile"
+msgstr ""
+
+#: class-custom-slider.php:200
+msgid "Show CTA On Mobile"
+msgstr ""
+
+#: class-custom-slider.php:211
+msgid "Show Image / Video On Mobile"
+msgstr ""
+
+#: class-custom-slider.php:222
+msgid "Disable on"
+msgstr ""
+
+#: class-custom-slider.php:225
+msgid "Phone"
+msgstr ""
+
+#: class-custom-slider.php:226
+msgid "Tablet"
+msgstr ""
+
+#: class-custom-slider.php:227
+msgid "Desktop"
+msgstr ""
+
+#: class-custom-slider.php:231
+msgid "This will disable the module on selected devices"
+msgstr ""
+
+#: class-custom-slider.php:238
+msgid ""
+"This will change the label of the module in the builder for easy "
+"identification."
+msgstr ""
+
+#: class-custom-slider.php:242
+msgid "CSS ID"
+msgstr ""
+
+#: class-custom-slider.php:250
+msgid "CSS Class"
+msgstr ""
+
+#: class-custom-slider.php:259 class-owlcarousel-slider.php:22
+#: class-post-owlcarousel.php:52
+msgid "Owl items"
+msgstr ""
+
+#: class-custom-slider.php:267 class-owlcarousel-slider.php:30
+#: class-post-owlcarousel.php:60
+msgid "Owl margin"
+msgstr ""
+
+#: class-overview.php:5
+msgid "Text overview"
+msgstr ""
+
+#: class-slider-3-image.php:5 class-slider-3-image.php:9
+msgid "Slider 3 img"
+msgstr ""
+
+#: class-post-travel-about.php:5
+msgid "Travel about post"
+msgstr ""
+
+#: class-text-fullwidth.php:6
+msgid "Custom Text Fullwidth"
+msgstr ""
+
+#: class-owlcarousel-slider.php:5
+msgid "Custom slider owlcarousel"
+msgstr ""
+
+#: class-video-embed.php:15
+msgid "Show video popup"
+msgstr ""
+
+#: class-slider-tours.php:5
+msgid "Slider Tours"
+msgstr ""
+
+#: class-slider-tours.php:67 class-posts-slider-with-js.php:392
+#: class-post-slider-with-js.php:431 class-tour-child-sliderItem.php:51
+msgid "View tour"
+msgstr ""
+
+#: class-posts-slider-with-js.php:5
+msgid "Post Sliders With Js"
+msgstr ""
+
+#: class-posts-slider-with-js.php:152 class-post-slider-with-js.php:150
+msgid "All"
+msgstr ""
+
+#: class-posts-slider-with-js.php:174 class-post-slider-with-js.php:173
+msgid "Show more"
+msgstr ""
+
+#: class-posts-slider-with-js.php:324 class-post-slider-with-js.php:326
+msgid " Day / 0 Night"
+msgstr ""
+
+#: class-posts-slider-with-js.php:324 class-post-slider-with-js.php:326
+#: class-tour-child-sliderItem.php:307
+msgid " Days"
+msgstr ""
+
+#: class-posts-slider-with-js.php:324 class-post-slider-with-js.php:326
+#: class-tour-child-sliderItem.php:307
+msgid " Nights"
+msgstr ""
+
+#: class-posts-slider-with-js.php:339 class-post-slider-with-js.php:378
+msgid "Highlights"
+msgstr ""
+
+#: class-posts-slider-with-js.php:390 class-post-slider-with-js.php:428
+msgid "Price"
+msgstr ""
+
+#: class-posts-slider-with-js.php:390 class-post-slider-with-js.php:428
+msgid "From"
+msgstr ""
+
+#: class-map-grayscale.php:18
+msgid "Percent gray scale"
+msgstr ""
+
+#: class-custom-sliderItem.php:5
+msgid "Slide Item"
+msgstr ""
+
+#: class-custom-sliderItem.php:42 class-owlcarousel-sliderItem.php:42
+msgid "New Slide Owlcarousel"
+msgstr ""
+
+#: class-custom-sliderItem.php:43 class-owlcarousel-sliderItem.php:43
+msgid "Slide Owlcarousel Settings"
+msgstr ""
+
+#: class-post-owlcarousel.php:5
+msgid "Post Owlcarousel"
+msgstr ""
+
+#: class-post-owlcarousel.php:42
+msgid "Title before image"
+msgstr ""
+
+#: class-post-slider-with-js.php:5
+msgid "Post Slider With Js"
+msgstr ""
+
+#: class-blog-list.php:5
+msgid "Blog list post"
+msgstr ""
+
+#: class-subtitle-overview.php:6
+msgid "Text Subtitle Overview"
+msgstr ""
+
+#: class-gallery-masonry.php:6
+msgid "Gallery Masonry"
+msgstr ""
+
+#: class-custom-post2.php:5
+msgid "Custom Post Style 2"
+msgstr ""
+
+#: class-custom-post2.php:54
+msgid "Read More"
+msgstr ""
+
+#: class-title-overview.php:6
+msgid "Text Title Overview"
+msgstr ""
+
+#: class-garllery-image.php:6
+msgid "Gallery Image"
+msgstr ""
+
+#: class-owlcarousel-sliderItem.php:5
+msgid "Slide Owlcarousel"
+msgstr ""
+
+#: class-tour-child-sliderItem.php:6
+msgid "Slider For Tour Child"
+msgstr ""
+
+#: class-owlcarousel-item.php:6
+msgid "Slide Owlcarousel Item"
+msgstr ""
+
+#: class-owlcarousel-item.php:17
+msgid "Title before images"
+msgstr ""
+
+#. Name of the plugin
+msgid "LIVA Divi Builder"
+msgstr ""
+
+#. Description of the plugin
+msgid "a custom divi plugin"
+msgstr ""
+
+#. Author of the plugin
+msgid "LIVA"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://liva.com.vn"
+msgstr ""

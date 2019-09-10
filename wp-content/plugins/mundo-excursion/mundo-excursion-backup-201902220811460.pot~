@@ -1,0 +1,53 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: mundo-exursion\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-02-20 03:44+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.0; wp-4.9.9"
+
+#: mundo-excursion.php:143 mundo-excursion.php:286
+msgid "From"
+msgstr ""
+
+#: mundo-excursion.php:150 mundo-excursion.php:296
+msgid "Group"
+msgstr ""
+
+#: mundo-excursion.php:155 mundo-excursion.php:291
+msgid "Private"
+msgstr ""
+
+#: mundo-excursion-rate.php:405 mundo-excursion-rate.php:407
+msgid "person"
+msgstr ""
+
+#: mundo-excursion-rate.php:407
+msgid "people"
+msgstr ""
+
+#. Name of the plugin
+#. Description of the plugin
+msgid "mundo-excursion"
+msgstr ""
+
+#. URI of the plugin
+msgid "http://liva.com.vn/plugins/mundo"
+msgstr ""
+
+#. Author of the plugin
+msgid "LIVA"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://liva.com.vn"
+msgstr ""

@@ -1,0 +1,10 @@
+.admin_destination_body #excursion_in_destination_overview{
+	display: none;
+}
+.admin_destination_body.admin_excursion #excursion_in_destination_overview{
+	display: block;
+}
+.admin_destination_body.admin_excursion #overview,.admin_destination_body.admin_excursion #information,.admin_destination_body.admin_excursion #view_home,
+.admin_destination_body.admin_excursion #postexcerpt,.admin_destination_body.admin_excursion #location_maps{
+	display: none;
+}

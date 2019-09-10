@@ -1,0 +1,137 @@
+0000.001 (0) Opened log file at time: Tue, 27 Aug 2019 13:55:01 +0000 on http://127.0.0.1/mundo
+0000.034 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.16 WP: 5.2.2 PHP: 7.1.12 (apache2handler, Windows NT DESKTOP-TPRNO5J 10.0 build 18362 (Windows 10) i586) MySQL: 10.1.29-MariaDB WPLANG: vi Server: Apache/2.4.29 (Win32) OpenSSL/1.0.2n PHP/7.1.12 safe_mode: 0 max_execution_time: 900 memory_limit: 1024M (used: 27.4M | 12M) multisite: N openssl: OpenSSL 1.0.2m  2 Nov 2017 mcrypt: Y LANG:  ZipArchive::addFile: Y
+0000.067 (0) Free space on disk containing Updraft's temporary directory: 133786.4 MB
+0000.140 (0) Tasks: Backup files: 1 (schedule: unset) Backup DB: 1 (schedule: unset)
+0000.160 (0) Semaphore (fd, wp_options) being initialised
+0000.238 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.341 (0) Set semaphore last lock (fd) time to 2019-08-27 13:55:01
+0000.358 (0) Semaphore lock (fd) complete
+0000.467 (0) Backup run: resumption=0, nonce=28fabf8b75e2, file_nonce=28fabf8b75e2 begun at=1566914101 (0s ago), job type=backup
+0000.626 (0) Scheduling a resumption (1) after 300 seconds (1566914401) in case this run gets aborted
+0000.827 (0) Checking if we have a zip executable available
+0001.050 (0) Creation of backups of directories: beginning
+0001.192 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0001.939 (0) Total entities for the zip file: 210 directories, 1371 files (0 skipped as non-modified), 22.8 MB
+0002.065 (0) Zip: backup_2019-08-27-1355_mundo_28fabf8b75e2-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0002.120 (0) Zip: backup_2019-08-27-1355_mundo_28fabf8b75e2-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0002.176 (0) Zip: backup_2019-08-27-1355_mundo_28fabf8b75e2-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0002.269 (0) Zip: backup_2019-08-27-1355_mundo_28fabf8b75e2-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0002.370 (0) Zip: backup_2019-08-27-1355_mundo_28fabf8b75e2-plugins.zip.tmp: 500 files added (on-disk size: 0 KB)
+0002.491 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (19 MB, 1371 files batched, 501 (501) added so far); re-opening (prior size: 0 KB)
+0004.525 (0) Zip: backup_2019-08-27-1355_mundo_28fabf8b75e2-plugins.zip.tmp: 600 files added (on-disk size: 5427.1 KB)
+0004.590 (0) Zip: backup_2019-08-27-1355_mundo_28fabf8b75e2-plugins.zip.tmp: 700 files added (on-disk size: 5427.1 KB)
+0004.685 (0) Zip: backup_2019-08-27-1355_mundo_28fabf8b75e2-plugins.zip.tmp: 800 files added (on-disk size: 5427.1 KB)
+0004.850 (0) Zip: backup_2019-08-27-1355_mundo_28fabf8b75e2-plugins.zip.tmp: 900 files added (on-disk size: 5427.1 KB)
+0004.920 (0) Zip: backup_2019-08-27-1355_mundo_28fabf8b75e2-plugins.zip.tmp: 1000 files added (on-disk size: 5427.1 KB)
+0004.994 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (1.8 MB, 1371 files batched, 501 (1002) added so far); re-opening (prior size: 5427.1 KB)
+0005.394 (0) Zip: backup_2019-08-27-1355_mundo_28fabf8b75e2-plugins.zip.tmp: 1100 files added (on-disk size: 6132.5 KB)
+0005.488 (0) Zip: backup_2019-08-27-1355_mundo_28fabf8b75e2-plugins.zip.tmp: 1200 files added (on-disk size: 6132.5 KB)
+0005.566 (0) Zip: backup_2019-08-27-1355_mundo_28fabf8b75e2-plugins.zip.tmp: 1300 files added (on-disk size: 6132.5 KB)
+0006.619 (0) Created plugins zip (0) - 6760 KB in 5.4 s (1255.2 KB/s) (sha1: 21e9dd44610ad17bcc0ace56c583a594b4144e24, sha256: 18b0ac5789dc3c1ce49f811c60318f76981ac964ecca9917debf6059b3dd13b5)
+0006.717 (0) Beginning creation of dump of themes (split every: 400 MB)
+0006.839 (0) Total entities for the zip file: 45 directories, 195 files (0 skipped as non-modified), 3.1 MB
+0007.483 (0) Zip: backup_2019-08-27-1355_mundo_28fabf8b75e2-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0008.851 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.5 MB, 177 (177) files added so far); re-opening (prior size: 0 KB)
+0009.494 (0) Created themes zip (0) - 1936.4 KB in 2.7 s (707.7 KB/s) (sha1: 01bcf7a7a3db14ac71105e4a955d113e27aea408, sha256: 9b20f54588fad3be8f87ce83e7b60ea3722b04c0a10e652f068be998f88b7e99)
+0009.576 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0009.617 (0) Looking for candidates to backup in: C:\xampp\htdocs\mundo/wp-content/uploads
+0009.633 (0) finding files: 2019: adding to list (1)
+0009.650 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0009.769 (0) Total entities for the zip file: 2 directories, 0 files (0 skipped as non-modified), 0 MB
+0009.877 (0) Created uploads zip (0) - 0.2 KB in 0.2 s (1.3 KB/s) (sha1: d5f230e988558c447a180d68fbc6e5ae9f776c46, sha256: 4861b6e08031e8b26ee298085b42e7b6a54f198e66de64eb01e61ad491225b15)
+0009.933 (0) Beginning backup of other directories found in the content directory (index: 0)
+0009.950 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0009.966 (0) Looking for candidates to backup in: C:\xampp\htdocs\mundo/wp-content
+0010.001 (0) finding files: index.php: adding to list (1)
+0010.016 (0) finding files: languages: adding to list (2)
+0010.033 (0) finding files: plugins: skipping: this is the plugins directory
+0010.050 (0) finding files: themes: skipping: this is the themes directory
+0010.067 (0) finding files: updraft: skipping: this is the updraft directory
+0010.083 (0) finding files: upgrade: skipping: excluded by options
+0010.100 (0) finding files: uploads: skipping: this is the uploads directory
+0010.161 (0) Total entities for the zip file: 3 directories, 30 files (0 skipped as non-modified), 2.3 MB
+0010.660 (0) Created others zip (0) - 649.8 KB in 0.5 s (1210.1 KB/s) (sha1: aec36553857fa66e3da0049a96bf172b92b305d5, sha256: a68a21e55f711acf902d97310c79834fe56f460bb097ea31af5324c4e6de620e)
+0011.000 (0) Saving backup status to database (elements: 8)
+0011.079 (0) Beginning creation of database dump (WordPress DB)
+0011.209 (0) Table wp_options: Total expected rows (approximate): 162
+0011.301 (0) Table wp_options: Total rows added: 161 in 0.08 seconds
+0011.344 (0) Table wp_options: finishing file (backup_2019-08-27-1355_mundo_28fabf8b75e2-db-table-wp_options.table.gz - 108.9 KB)
+0011.412 (0) Table wp_users: Total expected rows (approximate): 1
+0011.454 (0) Table wp_users: Total rows added: 1 in 0.01 seconds
+0011.479 (0) Table wp_users: finishing file (backup_2019-08-27-1355_mundo_28fabf8b75e2-db-table-wp_users.table.gz - 0.5 KB)
+0011.715 (0) Table wp_usermeta: Total expected rows (approximate): 18
+0011.955 (0) Table wp_usermeta: Total rows added: 18 in 0.06 seconds
+0012.011 (0) Table wp_usermeta: finishing file (backup_2019-08-27-1355_mundo_28fabf8b75e2-db-table-wp_usermeta.table.gz - 0.9 KB)
+0012.134 (0) Table wp_commentmeta: Total expected rows (approximate): 0
+0012.176 (0) Table wp_commentmeta: Total rows added: 0 in 0.01 seconds
+0012.224 (0) Table wp_commentmeta: finishing file (backup_2019-08-27-1355_mundo_28fabf8b75e2-db-table-wp_commentmeta.table.gz - 0.4 KB)
+0012.293 (0) Table wp_comments: Total expected rows (approximate): 1
+0012.330 (0) Table wp_comments: Total rows added: 1 in 0.01 seconds
+0012.355 (0) Table wp_comments: finishing file (backup_2019-08-27-1355_mundo_28fabf8b75e2-db-table-wp_comments.table.gz - 0.8 KB)
+0012.464 (0) Table wp_links: Total expected rows (approximate): 0
+0012.496 (0) Table wp_links: Total rows added: 0 in 0.01 seconds
+0012.522 (0) Table wp_links: finishing file (backup_2019-08-27-1355_mundo_28fabf8b75e2-db-table-wp_links.table.gz - 0.4 KB)
+0012.785 (0) Table wp_postmeta: Total expected rows (approximate): 2
+0012.835 (0) Table wp_postmeta: Total rows added: 2 in 0.01 seconds
+0012.864 (0) Table wp_postmeta: finishing file (backup_2019-08-27-1355_mundo_28fabf8b75e2-db-table-wp_postmeta.table.gz - 0.4 KB)
+0012.953 (0) Table wp_posts: Total expected rows (approximate): 4
+0012.987 (0) Table wp_posts: Total rows added: 4 in 0.01 seconds
+0013.032 (0) Table wp_posts: finishing file (backup_2019-08-27-1355_mundo_28fabf8b75e2-db-table-wp_posts.table.gz - 3.4 KB)
+0013.110 (0) Table wp_term_relationships: Total expected rows (approximate): 1
+0013.147 (0) Table wp_term_relationships: Total rows added: 1 in 0.01 seconds
+0013.178 (0) Table wp_term_relationships: finishing file (backup_2019-08-27-1355_mundo_28fabf8b75e2-db-table-wp_term_relationships.table.gz - 0.3 KB)
+0013.276 (0) Table wp_term_taxonomy: Total expected rows (approximate): 1
+0013.312 (0) Table wp_term_taxonomy: Total rows added: 1 in 0.01 seconds
+0013.340 (0) Table wp_term_taxonomy: finishing file (backup_2019-08-27-1355_mundo_28fabf8b75e2-db-table-wp_term_taxonomy.table.gz - 0.4 KB)
+0013.391 (0) Table wp_termmeta: Total expected rows (approximate): 0
+0013.421 (0) Table wp_termmeta: Total rows added: 0 in 0.01 seconds
+0013.456 (0) Table wp_termmeta: finishing file (backup_2019-08-27-1355_mundo_28fabf8b75e2-db-table-wp_termmeta.table.gz - 0.4 KB)
+0013.510 (0) Table wp_terms: Total expected rows (approximate): 1
+0013.626 (0) Table wp_terms: Total rows added: 1 in 0.09 seconds
+0013.665 (0) Table wp_terms: finishing file (backup_2019-08-27-1355_mundo_28fabf8b75e2-db-table-wp_terms.table.gz - 0.4 KB)
+0013.898 (0) backup_2019-08-27-1355_mundo_28fabf8b75e2-db-table-wp_options.table.gz (1/12): adding to final database dump
+0013.977 (0) backup_2019-08-27-1355_mundo_28fabf8b75e2-db-table-wp_users.table.gz (2/12): adding to final database dump
+0014.011 (0) backup_2019-08-27-1355_mundo_28fabf8b75e2-db-table-wp_usermeta.table.gz (3/12): adding to final database dump
+0014.053 (0) backup_2019-08-27-1355_mundo_28fabf8b75e2-db-table-wp_commentmeta.table.gz (4/12): adding to final database dump
+0014.073 (0) backup_2019-08-27-1355_mundo_28fabf8b75e2-db-table-wp_comments.table.gz (5/12): adding to final database dump
+0014.091 (0) backup_2019-08-27-1355_mundo_28fabf8b75e2-db-table-wp_links.table.gz (6/12): adding to final database dump
+0014.108 (0) backup_2019-08-27-1355_mundo_28fabf8b75e2-db-table-wp_postmeta.table.gz (7/12): adding to final database dump
+0014.125 (0) backup_2019-08-27-1355_mundo_28fabf8b75e2-db-table-wp_posts.table.gz (8/12): adding to final database dump
+0014.143 (0) backup_2019-08-27-1355_mundo_28fabf8b75e2-db-table-wp_term_relationships.table.gz (9/12): adding to final database dump
+0014.167 (0) backup_2019-08-27-1355_mundo_28fabf8b75e2-db-table-wp_term_taxonomy.table.gz (10/12): adding to final database dump
+0014.184 (0) backup_2019-08-27-1355_mundo_28fabf8b75e2-db-table-wp_termmeta.table.gz (11/12): adding to final database dump
+0014.200 (0) backup_2019-08-27-1355_mundo_28fabf8b75e2-db-table-wp_terms.table.gz (12/12): adding to final database dump
+0014.261 (0) backup_2019-08-27-1355_mundo_28fabf8b75e2-db.gz: finished writing out complete database file (104 KB)
+0014.350 (0) Total database tables backed up: 12 (backup_2019-08-27-1355_mundo_28fabf8b75e2-db.gz, size: 117023, sha1: f9d6dc367569a7590ab7ba398e11903f01f0672f, sha256: aeada360cbe86ca39e2a55a67ce4f1e9bca0aa35551f75c4a39aded8aa054139)
+0014.417 (0) backup_2019-08-27-1355_mundo_28fabf8b75e2-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0014.433 (0) backup_2019-08-27-1355_mundo_28fabf8b75e2-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0014.450 (0) backup_2019-08-27-1355_mundo_28fabf8b75e2-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0014.526 (0) backup_2019-08-27-1355_mundo_28fabf8b75e2-others.zip: others: This file has not yet been successfully uploaded: will queue
+0014.637 (0) backup_2019-08-27-1355_mundo_28fabf8b75e2-db.gz: db: This file has not yet been successfully uploaded: will queue
+0014.669 (0) Saving backup history. Total backup size: 9.2 MB
+0014.819 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0014.994 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0015.052 (0) No remote despatch: user chose no remote backup service
+0015.101 (0) Recording as successfully uploaded: backup_2019-08-27-1355_mundo_28fabf8b75e2-plugins.zip
+0015.229 (0) Recording as successfully uploaded: backup_2019-08-27-1355_mundo_28fabf8b75e2-themes.zip
+0015.353 (0) Recording as successfully uploaded: backup_2019-08-27-1355_mundo_28fabf8b75e2-uploads.zip
+0015.425 (0) Recording as successfully uploaded: backup_2019-08-27-1355_mundo_28fabf8b75e2-others.zip
+0015.467 (0) Recording as successfully uploaded: backup_2019-08-27-1355_mundo_28fabf8b75e2-db.gz
+0015.542 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0015.559 (0) Number of backup sets in history: 1; groups (db): 1
+0015.578 (0) Examining (for databases) backup set with group_id=0, nonce=28fabf8b75e2, datestamp=1566914101 (Aug 27 2019 13:55:01)
+0015.592 (0) This backup set is the backup set just made, so will not be deleted.
+0015.592 (0) Number of backup sets in history: 1; groups (files): 1
+0015.616 (0) Examining (for files) backup set with nonce=28fabf8b75e2, datestamp=1566914101 (Aug 27 2019 13:55:01)
+0015.616 (0) This backup set is the backup set just made, so will not be deleted.
+0015.633 (0) This backup set is the backup set just made, so will not be deleted.
+0015.634 (0) This backup set is the backup set just made, so will not be deleted.
+0015.634 (0) This backup set is the backup set just made, so will not be deleted.
+0015.634 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0015.658 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0015.767 (0) Resume backup (28fabf8b75e2, 0): finish run
+0015.958 (0) Decremented the semaphore (fd) by 1
+0016.078 (0) Semaphore (fd) unlocked
+0016.136 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0016.312 (0) No email will/can be sent - the user has not configured an email address.
+0016.333 (0) The backup apparently succeeded and is now complete

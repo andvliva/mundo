@@ -1,0 +1,964 @@
+@media (width: 1024px){
+    #top-menu li>ul.sub-menu{
+        left: -460px;
+        right: unset;
+    }
+    nav#top-menu-nav {
+        padding-left: 25px;
+    }
+}
+.display_none_excursion{
+    display: none;
+}
+
+#top-menu .excursion-menu a{
+    transition: unset;
+}
+.single-excursion .ui-datepicker-calendar .ui-state-default{
+    font-size: 16px;
+}
+img.ex_img_banner{
+    width: 100%;
+}
+.ex_img_banner_text{
+    text-align: center;
+}
+.wrapper-ex_img_banner{
+    position: relative;
+}
+.ex_img_banner_text{
+    position: absolute;
+    top: 40%;
+    width: 100%;
+}
+.ex_img_banner_text h2{
+    color: white;
+    font-size: 75px !important;
+    padding-bottom: 10px;
+}
+.ex_img_banner_text,.ex_img_banner_text a{
+    color:  white;
+}
+@media (min-width: 900px){
+    .excursion-menu>ul.sub-menu{
+        width: 730px;
+        display: flex;
+        -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+        bottom: unset;
+        top: unset;
+        left: unset;
+        right: unset;
+        opacity: 1;
+    }
+    .excursion-menu>ul.sub-menu>li{
+        width: 33%;
+        float: left;
+        border-right: 1px solid #eee;
+        margin-bottom: 10px !important;
+    }
+    #top-menu .excursion-menu li>ul.sub-menu{
+        display: flex;
+        -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+        position: relative;
+        bottom: unset;
+        top: unset;
+        left: unset;
+        right: unset;
+        opacity: 1;
+        visibility: inherit;
+        box-sizing: border-box;
+        box-shadow: unset;
+        width: auto;
+        padding-top: 0px;
+        padding-bottom: 0px;
+    }
+    #top-menu .excursion-menu li>ul.sub-menu li{
+        padding: 0px;
+    }
+    #top-menu .excursion-menu li>ul.sub-menu li a{
+        font-weight: normal !important;
+    }
+    #top-menu .excursion-menu li>ul.sub-menu li{
+        width: 50%;
+    }
+}
+.item-shortlist .col-md-5,.item-shortlist .col-md-7{
+    padding: 0px;
+}
+.item-shortlist .img-shorlist{
+    line-height: 0px;
+}
+.item-shortlist .row{
+    margin: 0px;
+}
+.item-shortlist{
+    padding: 20px;
+}
+.item-shortlist:nth-child(even) {background: #fff}
+.item-shortlist:nth-child(odd) {background: #f7f7f7}
+.item-shortlist a:hover{
+    color: #bd1e2d;
+}
+.title-shortlist{
+    color: #231f20;
+    font-size: 18px;
+    font-weight: bold;
+    position: relative;
+    display: block;
+    clear: both;
+    padding-bottom: 10px;
+}
+.item-shortlist .content-text-list{
+    padding-top: 20px;
+}
+.shortlisted-right .make-enquire{
+    margin: 0px 25px;
+    padding: 10px 30px;
+}
+.shortlisted-right .black-color{
+    cursor: pointer;
+}
+.single-excursion .btn-nav.col-md-6 .make-enquire{
+    padding: 8px 16px;
+    margin-left: 0px;
+}
+.no-tour-found{
+    text-align: center;
+    color: black;
+}
+.item-shortlist .shortlisted-right{
+    text-align: right;
+    padding-top: 45px;
+    padding-right: 20px;
+}
+.shortlisted-right b,.black-color{
+    color: black;
+}
+.shortlisted-right .fa{
+    color: #bd1e2d;
+}
+.duration-shortlist{
+    color: #696969;
+    font-size: 14px;
+}
+.wrapper-shorstlist{
+    padding: 100px 0px;
+}
+.exc-checkout-form .et_pb_contact p  input{
+    color: black;
+}
+.exc-checkout-form .et_pb_contact p  textarea{
+    color: black;
+}
+.exc-checkout-form .et_pb_contact p input.error{
+    border: 1px solid #f00 !important;
+}
+.language-pt .price{
+    font-size: 14px!important;
+}
+.excursion-page .tour_in_travel_style .entry-title a{
+    line-height: 1.2;
+}
+#main-content .excursion-page  .container{
+    margin: auto;
+}
+.excursion-page .et_pb_section_2.et_pb_section{
+    background-color: #fff !important;
+}
+.icon_star:before{
+    content: "\e033";
+    font-family: ETmodules;
+    font-size: 15px;
+    font-weight: 800;
+    color: #bd1e2d;
+}
+.icon_star_none:before{
+    content: "\e031";
+    font-family: ETmodules;
+    font-size: 15px;
+    font-weight: 800;
+    color: #bd1e2d;
+}
+.morecontent span{
+    display: none;
+}
+.overview-excursion p{
+    padding: 120px 185px;
+    text-align: center;
+}
+.overview-excursion#overvew {
+    border: unset;
+}
+#main-content .list-all-excursion .container{
+    padding-top: 0px;
+}
+
+#main-content .list-all-excursion article{
+    background-color: #f7f7f7;
+    margin-bottom: 30px;
+}
+#main-content .list-all-excursion article .row.content{
+    padding-bottom: 15px;
+}
+#main-content .list-all-excursion article .row.content:after,#main-content .list-all-excursion article .row.content:before{
+    display: none;
+}
+.item-excursion-rate.row:after,.item-excursion-rate.row:before{
+    display: none;
+}
+#main-content .list-all-excursion article .price-2-month{
+    padding-left: 0px;
+}
+#main-content .list-all-excursion article .star-ex{
+    padding-right: 0px;
+    text-align: right;
+    padding-left: 0px;
+}
+#main-content .list-all-excursion article hr{
+    width: 85%;
+}
+.list-all-excursion .container h2.head-excursion-page{
+    margin-bottom: 60px;
+    margin-top: 60px;
+}
+.list-all-excursion .container h2.entry-title{
+    /*margin-bottom: 30px;*/
+}
+.list-rate-excursion.content{
+    padding: 30px 25px;
+    padding-bottom: 15px;
+}
+.check-private{
+    margin-right: 30px;
+}
+.list-rate-excursion img{
+    margin-right: 5px;
+    vertical-align: sub;
+}
+.content-list-all-excursion{
+    padding-bottom: 120px;
+}
+.highlight-place-excursion {
+    background-color: #f7f7f7;
+    padding: 120px 0px;
+}
+#main-content .list-all-excursion .highlight-place-excursion article{
+    background-color: white;
+    margin-bottom: 0px;
+}
+.excursion-page #city .et_pb_section{
+    margin-bottom: 0px;
+    margin-top: 60px;
+}
+.excursion-page #city .et_pb_section .owl-theme .owl-nav{
+    line-height: 0px;
+    margin: 0px;
+}
+#main-content .excursion-page #information{
+    margin: 120px auto;
+}
+.head-excursion-page{
+    margin-bottom: 60px;
+    padding-bottom: 0px;
+}
+.tab-travel-guide-ex .col-md-6 .et_pb_toggle_0{
+    padding-top: 0px;
+}
+.travel-guide-readmore{
+    color: #bd1e2d;
+    margin-top: 20px;
+}
+.tab-travel-guide-ex .col-md-6 .et_pb_toggle{
+    padding: 20px 0px;
+}
+.excursion-page .gallrey{
+    padding: 120px 0px;
+    padding-bottom: 90px;
+}
+#main-content .excursion-page .gallrey .title-overview {
+    margin-bottom: 60px
+}
+.highlight-place-excursion .title-overview{
+    text-align: center;
+}
+#main-content .excursion-page #our_expert h2{
+    padding-top: 0px;
+}
+#main-content .excursion-page #our_expert .et_pb_section{
+    padding: 120px 0px;
+    padding-bottom: 80px;
+}
+#main-content .list-all-excursion #our_expert article{
+    background-color: white;
+}
+#main-content .list-all-excursion .excursion-doitac{
+    margin-top: 0px;
+    background-color: white;
+    padding: 0px;
+    border-bottom: 0px;
+}
+#main-content .list-all-excursion .excursion-doitac article{
+    margin-top: 30px;
+}
+#main-content .excursion-page #main{
+    border-bottom: 0px;
+}
+.et_pb_post  .content-single-excursion{
+    padding-top: 0px;
+}
+.single-excursion-overview{
+    padding: 120px 185px;
+}
+.single-excursion-overview .overview{
+    padding-bottom: 60px;
+    text-align: center;
+}
+.single-excursion #main-content .container{
+    padding-top: 0px;
+}
+.single-excursion .navbar {
+    margin-bottom: 0px;
+}
+.highlight-head{
+    text-align: center;
+    font-size: 13px;
+    margin-bottom: 20px;
+}
+.single-excursion-list-highlight p{
+    padding-bottom: 5px;
+    color: #231f20;
+    font-weight: bold;
+    letter-spacing: 0.4px;
+}
+.single-excursion-list-highlight{
+    padding: 0px 40px;
+    padding-bottom: 50px;
+}
+.single-excursion-list-highlight p:before{
+    content: '.';
+    vertical-align: 3px;
+    font-size: 35px;
+    color: #bd1e2d;
+    margin-right: 5px;
+}
+.single-list-excursion-about {
+    text-align: center;
+}
+.single-list-excursion-about span{
+    text-align: center;
+    color: #231f20;
+    font-weight: bold;
+    letter-spacing: 0.4px;
+}
+.single-list-excursion-about span img{
+    height: 14px;
+    margin-right: 10px;
+}
+.pick-up-point{
+    margin: 0px 30px;
+}
+.single-excursion-infomation.information-toggle-tabs{
+    width: 100%;
+    background-color: #f7f7f7;
+    padding: 120px 0px;
+}
+.single-excursion-infomation.information-toggle-tabs .title-head{
+    margin-bottom: 50px;
+}
+.review-none{
+    display: none;
+}
+.show-more-review-excursion,.show-more-review-excursion-private{
+    cursor: pointer;
+}
+.review-none-private{
+    display: none;
+}
+.reviews-excusrion-single{
+    padding: 120px 0px;
+}
+.icon_star_all{
+    margin: 0px 3px;
+}
+.icon_star_all:first-child{
+    margin-left: 0px;
+}
+.icon_star_all:last-child{
+    margin-right: 0px;
+}
+.content-reviews .review-avatar{
+    text-align: right;
+    padding-right: 30px;
+}
+.content-reviews .review-avatar img{
+    width: 85px;
+    border-radius: 100px;
+}
+.single-head-reviews{
+    margin: 10px 0px;
+}
+.single-head-reviews .title-review-ex{
+    font-weight: bold;
+    color: #231f20;
+    margin-right: 20px;
+}
+.single-head-reviews .day-review-ex{
+    color: #9fa8ad;
+}
+.content-reviews{
+    margin-bottom: 30px;
+}
+.reviews-excusrion-single .review-main-text{
+    border-right: 1px solid rgba(0,0,0,.1);
+}
+.wrapper-show-more-review{
+    text-align: center;
+}
+.wrapper-show-more-review a{
+    color: #231f20 !important;
+}
+.wrapper-show-more-review a:after{
+    vertical-align: -5px;
+    font-size: 21px;
+    padding-left: 5px;
+    content: url(icon/next-circle.png);
+    font-family: 'ETmodules';
+    color: #bd1e2d;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+}
+.content-reviews-ex{
+    color: #231f20;
+}
+.relate-excursion-single  h2.entry-title{
+    display: none;
+}
+.relate-excursion-single .post-content h2.entry-title{
+    display: block;
+}
+.list-rate-excursion img{
+    width: auto !important;
+    height: auto;
+    display: inline-block !important;
+}
+.relate-excursion-single article{
+    background-color: #f7f7f7!important; 
+}
+.relate-excursion-single .star-ex{
+    padding-right: 0px;
+    padding-left: 0px;
+}
+.relate-excursion-single .price-2-month{
+    padding-left: 0px;
+}
+.relate-excursion-single article hr{
+    width: 85%;
+}
+.relate-excursion-single article .row.content{
+    padding-bottom: 15px;
+}
+.relate-expert-single .owl-carousel .owl-item img{
+    width: auto ;
+    border-radius: 100px;
+    margin: 0px auto;
+}
+.relate-expert-single .owl-carousel .owl-item .entry-title{
+    text-align: center;
+}
+.relate-expert-single .owl-carousel .owl-item  .post-content{
+    text-align: center;
+}
+.relate-expert-single .owl-carousel .owl-item .entry-featured-image-url{
+    text-align: center;
+}
+.relate-expert-single{
+    padding: 120px;
+    border-top: 1px solid rgba(0,0,0,.1);
+    text-align: center;
+    margin-top: 100px;
+}
+.relate-expert-single .head-title,.relate-excursion-single .head-title{
+    text-align: center;
+    padding-bottom: 60px;
+}
+.show_private_rate{
+    display: none;
+}
+.show_private_rate.display_block{
+    display: block;
+}
+.display_block_excursion{
+    display: block;
+}
+.gallery-excursion{
+    margin-bottom: 120px;
+}
+.wrapper-price .nav.nav-tabs li{
+    width: 50%;
+}
+.excursion-detail-rate{
+    margin-bottom: 120px;
+}
+.star-ex{
+    float: right;
+}
+.star-ex b{
+    font-size: 24px;
+}
+.head-list-rate-ex .title{
+    font-size: 24px;
+    font-weight: bold;
+}
+.excursion-detail-rate .nav.nav-tabs li.active,.excursion-detail-rate .nav.nav-tabs .active a{
+    background-color: #bd1e2d;
+    border: unset;
+}
+.excursion-detail-rate .nav.nav-tabs li{
+    background-color: #eee;
+    border-bottom: 3px solid #bd1e2d;
+}
+.excursion-detail-rate .nav.nav-tabs li a{
+    opacity: 0.5;
+}
+.excursion-detail-rate .nav.nav-tabs li.active a{
+    opacity: 1;
+}
+.excursion-detail-rate .nav.nav-tabs  a{
+    padding: 10px 30px;
+    color: #231f20;
+}
+.excursion-detail-rate .nav.nav-tabs .active .icon_star:before,.excursion-detail-rate .nav.nav-tabs .active .icon_star_none:before{
+    color: white
+}
+.excursion-detail-rate .nav.nav-tabs .active .star-list-rate-ex{
+    color: white;
+}
+.excursion-detail-rate .nav.nav-tabs .star-list-rate-ex{
+    margin: 7px 0px;
+    color: #bd1e2d;
+}
+.excursion-detail-rate .nav.nav-tabs .active span{
+    color: white;
+}
+.excursion-detail-rate .nav.nav-tabs{
+    padding: 0px;
+}
+.wrapper-price{
+    background-color: #f7f7f7;
+}
+.excursion-detail-rate .tab-content{
+    padding: 60px 15px;
+}
+.item-excursion-rate div{
+    padding: 0px;
+}
+.item-excursion-rate{
+    padding-bottom: 10px;
+}
+.item-excursion-rate .text,.item-excursion-rate .text p{
+    color: #231f20;
+    font-weight: bold;
+}
+.item-excursion-rate i{
+    color: #231f20;
+    margin-right: 7px;
+    font-weight: bold;
+    font-size: 17px;
+}
+.excursion-detail-rate .over-rate{
+    color: #231f20;
+    padding-top: 30px;
+    border-top: 1px solid rgba(0,0,0,.1);
+    margin-top: 30px;
+}
+.excursion-detail-rate .book_now {
+    text-transform: uppercase;
+    padding: 10px 30px;
+}
+.wrapper-book_now{
+    text-align: center;
+    margin-top: 30px;
+}
+.rate-right{
+    padding-left: 30px;
+}
+.rate-right .text-head{
+    font-size: 16px;
+    font-weight: bold;
+    color: #231f20;
+    margin-bottom: 15px;
+}
+.excursion-choose {
+    margin-bottom: 15px;
+    padding: 10px 20px;
+    background: white;
+    color: black;
+    box-shadow: 1px 1px 3px 3px rgba(0, 0, 0, 0.1);
+}
+.excursion-choose-dropdown{
+    width: 100%;  
+    padding: 20px 5px;
+}
+.exc-checkout-form .info-in-checkout div.excursion-choose-dropdown{
+    padding: 20px;
+} 
+.excursion-choose-dropdown .participants-input .col-md-6:last-child,.excursion-choose-dropdown .participants-input .col-md-5{
+    text-align: right;
+}
+article .excursion-choose-dropdown .participants-input{
+    margin-bottom: 20px;
+}
+.excursion-choose-dropdown .participants-input .col-md-6:last-child ,.excursion-choose-dropdown .participants-input .col-md-5{
+    margin-bottom: 0px;
+}
+.excursion-choose-dropdown .participants-input .col-md-6:last-child input,.excursion-choose-dropdown .participants-input .col-md-5 input{
+    text-align: center;
+}
+.excursion-choose-dropdown .participants-input span{
+    color: #666;
+    font-size: 13px;
+    margin-left: 5px;
+}
+.excursion-choose-dropdown .participants-input .col-md-6:last-child a,.excursion-choose-dropdown .participants-input .col-md-5 a{
+    color: #666;
+    font-size: 14px;
+}
+.infomation-booking{
+    margin-top: 20px;
+    color: black;
+    padding: 0px 10px;
+}
+.infomation-booking .price-detail{
+    text-align: right;
+}
+.price-total{
+    margin-top: 10px;
+    padding-top: 20px;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    text-align: right;
+}
+.price-total span{
+    font-weight: bold;
+    font-size: 24px;
+}
+/*css lịch*/
+.rate-right .ui-datepicker{
+    width: 100%;
+    border: unset;
+}
+.rate-right .ui-datepicker-calendar th{
+    border-top: unset;
+    text-align: center;
+    font-weight: bold;
+    color: #231f20;
+}
+.rate-right .ui-datepicker-calendar th span{
+    font-weight: bold;
+}
+.rate-right .ui-datepicker-calendar{
+    border: unset;
+}
+#content-area .rate-right .ui-datepicker-calendar td{
+    padding: 2px 0px;
+    border: unset;
+    text-align: center;
+}
+#content-area .rate-right .ui-datepicker-calendar td.full-book span {
+    color: #bd1e2d;
+}
+.ui-widget-content a.ui-state-default{
+    color: #00ba50;
+}
+td.ui-state-disabled .ui-state-default{
+    background-color: white;
+    color: #9b9b9b;
+}
+.rate-right .check-in-date{
+    box-shadow: 1px 1px 3px 3px rgba(0, 0, 0, 0.1);
+}
+#content-area .rate-right .ui-datepicker-calendar td span{
+    background-color: white;
+    color: #9b9b9b;
+    border: unset;
+    background: white;
+    text-align: center;
+}
+.rate-right .ui-datepicker .ui-datepicker-title{
+    font-weight: bold;
+    color: #231f20;
+}
+/*end css lịch*/
+.exc-checkout-form .price-datepicker{
+    border: unset;
+}
+.exc-checkout-form label{
+    color: 
+}
+.exc-checkout-form .info-in-checkout div,.exc-checkout-form .info-in-checkout div label,.exc-checkout-form .info-in-checkout div span{
+    padding: 0px;
+}
+article .info-in-checkout{
+    margin-bottom: 10px;
+}
+.info-in-checkout .participants,.info-in-checkout input,.info-in-checkout span{
+    color: #231f20;
+    font-weight: bold;
+}
+.exc-checkout-form hr{
+    margin-top: 60px;
+    margin-bottom: 40px;
+}
+.exc-checkout-form .mui-ten-xuong{
+    right: 45px;
+}
+.relate_excursion_check_out .entry-title{
+    display: none;
+}
+.relate_excursion_check_out .entry-title.content{
+    display: block;
+    padding: 0px;
+    margin: 0px;
+}
+.relate_excursion_check_out  .post-thumbnail{
+    padding: 0px;
+}
+.relate_excursion_check_out  .post-thumbnail a{
+    margin-bottom: 0px;
+}
+.relate_excursion_check_out  .ex_check_out_content {
+    padding: 3px 10px;
+    background-color: #f7f7f7;
+}
+.relate_excursion_check_out .ex_check_out_content .list-rate-excursion.content{
+    padding: 0px;
+}
+#relate_excursion_check_out .price-ex-thank.price-2-month{
+    position: absolute;
+    bottom: 10px;
+}
+.relate_excursion_check_out .list-rate-excursion.content{
+    display: none;
+}
+#relate_excursion_check_out .ex_check_out_content  hr{
+    position: absolute;
+    bottom: 30px;
+    display: block;
+    width: 92%;
+}
+.relate_excursion_check_out .ex_check_out_content .content{
+    padding: 7px 0px;
+}
+.relate_excursion_check_out .ex_check_out_content hr{
+    margin: 10px 0px;
+}
+.relate_excursion_check_out{
+    margin-top: 30px;
+}
+.price-ex-thank{
+    color: #231f20;
+}
+.price-ex-thank .price{
+    color: #bd1e2d;
+}
+#et-top-navigation #top-menu .excursion-menu  .sub-menu a:after{
+    display: none;
+}
+.single-excursion .btn-nav.col-md-6{
+    padding: 0px;
+}
+.excursion-detail-rate .nav.nav-tabs li:after{
+    content: "";
+    position: absolute;
+    width: 0;
+    height: 0;
+    margin-left: -0.5em;
+    bottom: -17px;
+    left: 50%;
+    box-sizing: border-box;
+    border: 7px solid #231f20;
+    border-color: transparent transparent #bd1e2d #bd1e2d;
+    transform-origin: 0 0;
+    transform: rotate(315deg);
+    box-shadow: -3px 1px 3px 0 rgba(0, 0, 0, 0.04);
+}
+.excursion-detail-rate .nav.nav-tabs li.active:after{
+    bottom: -14px;
+}
+.excursion-detail-rate .nav.nav-tabs li{
+    position: relative;
+}
+.ui-widget-content a.ui-state-default.ui-state-active{
+    background: #00ba50;
+    color: black;
+    border-radius: 166px;
+    width: 35px;
+    height: 35px;
+    margin: 0px auto;
+    vertical-align: -11px;
+    padding: 0px;
+    padding-top: 6px;
+}
+.price-detail span:last-child{
+    margin-left: 25px;
+}
+.excursion-detail-rate .nav-tabs{
+    border-bottom: 3px solid #bd1e2d;
+}
+.banner_not_home.et_pb_slider .et_pb_slide_description{
+    padding: 0px;
+}
+.excursion-doitac{
+    border-bottom: unset;
+}
+.content-excursion-book .et_pb_row.et_pb_row_2{
+    margin-top: 100px;
+}
+.single-excursion .et_pb_slide_title{
+    font-size: 50px;
+}
+.price-detail span{
+    display: inline-block;
+}
+@media screen and (max-width:500px){
+    .single #thing_to_do_hotel article .row.content{
+        padding: 0 20px;
+    }
+    .single #thing_to_do_hotel article .row.content .price-2-month{
+        padding-left: 0;
+        padding-right: 0;
+        width: calc(100% - 150px);
+    }
+    .single #thing_to_do_hotel article .row.content .star-ex{
+        padding-left: 0px;
+        padding-right: 0px;
+        width: 150px;
+        text-align: right;
+    }
+    .single-list-excursion-about .pick-up-point{
+        display: inline-block;
+        margin: 0px;
+        margin-left: 10px;
+    }
+    .single-list-excursion-about span:last-child{
+        display: block;
+    }
+    .excursion-detail-rate{
+        margin-bottom: 60px;
+    }
+    .single-excursion-infomation.information-toggle-tabs{
+        padding: 60px 0px;
+    }
+    .price-total{
+        padding-right: 0px;
+    }
+    .reviews-excusrion-single .row.et_pb_row{
+        margin: 0px;
+    }
+    .content-reviews-ex{
+        text-align: justify;
+    }
+    .ex_img_banner_text h2{
+       
+        font-size: 45px !important;
+        text-align: center;
+        padding: 0px 20px !important;
+        margin-bottom: 10px;
+    }
+
+    .ex_img_banner_text{
+        top: 35%;
+        font-size: 10px;
+    }
+    .single-excursion-overview{
+        padding: 0px;
+        padding-top: 45px;
+    }
+    .single-excursion-overview .overview{
+        padding-bottom: 45px;
+    }
+    .single-excursion-list-highlight p{
+        text-align: center;
+    }
+    .single-list-excursion-about{
+        margin-bottom: 20px;
+    }
+    .single-excursion .gallery-image-box a:nth-child(even){
+        margin-right: 4%;
+    }
+    .excursion-detail-rate .nav.nav-tabs li{
+        width: 100%;
+        clear: both;
+        float: unset;
+    }
+    .gallery-excursion{
+        margin-bottom: 45px;
+    }
+    .item-excursion-rate .lb {
+        width: 50%;
+        float: left;
+    }
+    .item-excursion-rate .text {
+        width: 50%;
+        float: left;
+    }
+    .item-excursion-rate{
+        clear: both;
+    }
+    .rate-right{
+        padding: 0px;
+    }
+    .rate-left{
+        padding: 0px;
+    }
+    .book-info.infomation-booking{
+        padding: 0px;
+    }
+    .book-info.infomation-booking .col-md-6{
+        padding: 0px;
+    }
+    .label-depart{
+        display: inline-block;
+    }
+    .departure-date{
+        display: inline-block;
+        float: right;
+    }
+    .content-reviews .review-avatar{
+        text-align: center;
+    }
+    .content-reviews  .col-md-9{
+        text-align: center;
+    }
+    .reviews-excusrion-single .review-main-text{
+        margin-bottom: 45px;
+        padding: 0px;
+    }
+    .reviews-excusrion-single{
+        padding: 45px 0px;
+    }
+    .relate-expert-single{
+        margin-top: 45px;
+        padding: 0px;
+    }
+    .relate-expert-single .head-title{
+        margin-top: 45px;
+    }
+    .row_in_mobile .col-6{
+        float: left;
+    }
+
+}
+.rate-right .ui-datepicker .ui-datepicker-title{
+    width: 60%;
+    margin: auto;
+}
+.rate-right .ui-datepicker{
+    padding-top: 10px;
+}

@@ -1,0 +1,434 @@
+# Translation of Plugins - Advanced Access Manager - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Advanced Access Manager - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-09-23 11:01:30+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - Advanced Access Manager - Stable (latest release)\n"
+
+#. Author URI of the plugin/theme
+msgid "http://www.wpaam.com"
+msgstr "http://www.wpaam.com"
+
+#. Author of the plugin/theme
+msgid "Vasyl Martyniuk <support@wpaam.com>"
+msgstr "Vasyl Martyniuk <support@wpaam.com>"
+
+#. Description of the plugin/theme
+msgid "Manage User and Role Access to WordPress Backend and Frontend."
+msgstr "Gestiona el acceso de usuario y perfiles al backend y al frontend de WordPress."
+
+#. Plugin Name of the plugin/theme
+msgid "Advanced Access Manager"
+msgstr "Advanced Access Manager"
+
+#: extension/AAM_Secure/extension.php:336
+msgid "Security"
+msgstr "Seguridad"
+
+#: extension/AAM_Plus_Package/extension.php:196
+msgid "Comments"
+msgstr "Comentarios"
+
+#: extension/AAM_Plugin_Manager/extension.php:215
+msgid "Plugin Manager"
+msgstr "Plugin Manager"
+
+#: extension/AAM_My_Feature/extension.php:56
+msgid "My Feature"
+msgstr "My Feature"
+
+#: extension/AAM_Multisite_Support/extension.php:188
+msgid "Set as Default"
+msgstr "Establecer como predeterminado"
+
+#: extension/AAM_Multisite_Support/extension.php:187
+msgid "Unset Default"
+msgstr "Quitar como predeterminado"
+
+#: extension/AAM_Multisite_Support/extension.php:186
+msgid "Set Default"
+msgstr "Establecer como predeterminado"
+
+#: extension/AAM_Multisite_Support/extension.php:123
+msgid "Site Manager"
+msgstr "Gestor de Sitios"
+
+#: extension/AAM_Multisite_Support/extension.php:122
+msgid "Sites"
+msgstr "Sitios"
+
+#: extension/AAM_Activity_Log/extension.php:176
+msgid "Get More"
+msgstr "Conseguir más"
+
+#: extension/AAM_Activity_Log/extension.php:175
+msgid "Clear Logs"
+msgstr "Limpiar Logs"
+
+#: extension/AAM_Activity_Log/extension.php:72
+msgid "Activity Log"
+msgstr "Log de Actividad"
+
+#: extension/AAM_Activity_Log/activity.php:108
+msgid "Unknown Activity"
+msgstr "Actividad desconocida"
+
+#: extension/AAM_Activity_Log/activity.php:102
+msgid "System Logout"
+msgstr "Salir del Sistema"
+
+#: extension/AAM_Activity_Log/activity.php:98
+msgid "System Login"
+msgstr "Acceso al Sistema"
+
+#: extension/AAM_Activities/extension.php:229
+msgid "Undefined Type"
+msgstr "Tipo no definido"
+
+#: extension/AAM_Activities/extension.php:172
+msgid "Deleted %s %s"
+msgstr "Borrado %s %s"
+
+#: extension/AAM_Activities/extension.php:163
+msgid "Untrashed %s: %s"
+msgstr "Recuperado %s: %s"
+
+#: extension/AAM_Activities/extension.php:149
+msgid "Trashed %s: %s"
+msgstr "Eliminado %s: %s"
+
+#: extension/AAM_Activities/extension.php:136
+msgid "Updated %s: %s"
+msgstr "Actualizado %s: %s"
+
+#: extension/AAM_Activities/extension.php:133
+#: extension/AAM_Activities/extension.php:146
+#: extension/AAM_Activities/extension.php:160
+msgid "Post does not exist."
+msgstr "La entrada no existe."
+
+#: config.php:68
+msgid "Folder wp-content/aam is not writable"
+msgstr "La carpeta wp-content/aam no es escribible"
+
+#: config.php:65
+msgid "Failed to create wp-content/aam folder"
+msgstr "Fallo al crear la carpeta wp-content/aam"
+
+#: application/view/post.php:383 application/view/post.php:391
+msgid "All"
+msgstr "Todo"
+
+#: application/view/post.php:199
+msgid "[empty]"
+msgstr "[vaciar]"
+
+#: application/view/metabox.php:195
+msgid "Frontend Widgets"
+msgstr "Frontend Widgets"
+
+#: application/view/metabox.php:191
+msgid "Dashboard Widgets"
+msgstr "Metaboxes & Widgets"
+
+#: application/view/manager.php:869
+msgid "<h3>AAM Documentation</h3><div class=\"inner\">Find more information about Advanced Access Manager here.</div>"
+msgstr "<h3>Documentación AAM</h3><div class=\"inner\">Encuentra más información sobre Advanced Access Manager aquí.</div>"
+
+#: application/view/manager.php:868
+msgid "Actions Locked"
+msgstr "Acciones bloqueadas"
+
+#: application/view/manager.php:867
+msgid "Duplicate"
+msgstr "Duplicar"
+
+#: application/view/manager.php:866
+msgid "Restore Default Access"
+msgstr "Restaurar acceso por defecto"
+
+#: application/view/manager.php:865
+msgid "Trash Post"
+msgstr "Eliminar entrada"
+
+#: application/view/manager.php:864
+msgid "Delete Permanently"
+msgstr "Borrar permanentemente"
+
+#: application/view/manager.php:863
+msgid "Delete Post"
+msgstr "Borrar entrada"
+
+#: application/view/manager.php:862
+msgid "Are you sure you want to move <b>%s</b> to trash?"
+msgstr "¿Estas seguro de que quieres mover <b>%s</b> a la papelera?"
+
+#: application/view/manager.php:861
+msgid "Are you sure you want to delete <b>%s</b>?"
+msgstr "¿Estás seguro de que quieres borrar <b>%s</b>?"
+
+#: application/view/manager.php:860
+msgid "Restore Default Capabilities"
+msgstr "Restaurar las Capacidades por Defecto"
+
+#: application/view/manager.php:859
+msgid "Edit Role"
+msgstr "Editar Rol"
+
+#: application/view/manager.php:858
+msgid "Close"
+msgstr "Cerrar"
+
+#: application/view/manager.php:857
+msgid "Unlock Default Accesss Control"
+msgstr "Desbloquear Control de Accesos por Defecto"
+
+#: application/view/manager.php:856
+msgid "Manager Access"
+msgstr "Administrar Accesos"
+
+#: application/view/manager.php:855
+msgid "Edit Term"
+msgstr "Editar Term"
+
+#: application/view/manager.php:854
+msgid "Apply"
+msgstr "Aplicar Todo"
+
+#: application/view/manager.php:853
+msgid "Restore Default"
+msgstr "Restaurar valores por defecto"
+
+#: application/view/manager.php:851
+msgid "Filter Posts by Post Type"
+msgstr "Filtrar Entradas por Post Type"
+
+#: application/view/manager.php:849
+msgid "Save Event"
+msgstr "Salvar Evento"
+
+#: application/view/manager.php:848 application/view/manager.php:850
+msgid "Delete Event"
+msgstr "Borrar Evento"
+
+#: application/view/manager.php:847
+msgid "Edit Event"
+msgstr "Editar Evento"
+
+#: application/view/manager.php:846
+msgid "Add Event"
+msgstr "Agregar Evento"
+
+#: application/view/manager.php:845
+msgid "Add Capability"
+msgstr "Agregar Capability"
+
+#: application/view/manager.php:844
+msgid "Select Role"
+msgstr "Seleccionar Rol"
+
+#: application/view/manager.php:843
+msgid "Delete Capability"
+msgstr "Borrar Capability"
+
+#: application/view/manager.php:842
+msgid "Are you sure that you want to delete capability <b>%s</b>?"
+msgstr "Por favor confirme el borrado de Capability - <b>%s</b>"
+
+#: application/view/manager.php:841
+msgid "Add New Capability"
+msgstr "Agregar nueva Capability"
+
+#: application/view/manager.php:840
+msgid "Inherit Capabilities"
+msgstr "Inherit Capabilities"
+
+#: application/view/manager.php:839
+msgid "Filter Capabilities by Category"
+msgstr "Filtrar Capabilities por Categoría"
+
+#: application/view/manager.php:838
+msgid "Are you sure you want to delete user <b>%s</b>?"
+msgstr "Está seguro de borrar el usuario <b>%s</b>?"
+
+#: application/view/manager.php:837
+msgid "Block"
+msgstr "Bloquear"
+
+#: application/view/manager.php:836 application/view/manager.php:852
+msgid "Refresh List"
+msgstr "Refrescar Lista"
+
+#: application/view/manager.php:835
+msgid "Filter Users"
+msgstr "Filtrar Usuarios"
+
+#: application/view/manager.php:834
+msgid "Add User"
+msgstr "Agregar Usuario"
+
+#: application/view/manager.php:833
+msgid "Delete Role"
+msgstr "Borrar Rol"
+
+#: application/view/manager.php:832
+msgid "Are you sure that you want to delete role <b>%s</b>?"
+msgstr "Está seguro de borrar el rol <b>%s</b>?"
+
+#: application/view/manager.php:831
+msgid "System detected %d user(s) with this role. All Users with Role <b>%s</b> will be deleted automatically!"
+msgstr "El sistema ha detectado %d usuario(s) con este rol. ¡Todos los Usuarios con Rol <b>%s</b> serán borrados automáticamente!"
+
+#: application/view/manager.php:830
+msgid "Save Changes"
+msgstr "Grabar Cambios"
+
+#: application/view/manager.php:828
+msgid "Clear"
+msgstr "Limpìar"
+
+#: application/view/manager.php:827
+msgid "Filtered"
+msgstr "Filtrado"
+
+#: application/view/manager.php:826
+msgid "Delete"
+msgstr "Borrar"
+
+#: application/view/manager.php:825
+msgid "Edit"
+msgstr "Editor"
+
+#: application/view/manager.php:824
+msgid "Manage"
+msgstr "Administrar"
+
+#: application/view/manager.php:823 application/view/manager.php:829
+msgid "Add New Role"
+msgstr "Agregar Nuevo Rol"
+
+#: application/view/manager.php:822
+msgid "Send E-mail"
+msgstr "Enviar email"
+
+#: application/view/manager.php:821
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: application/view/manager.php:820
+msgid "Rollback Settings"
+msgstr "Recuperar Valores"
+
+#: application/view/manager.php:241
+msgid "You are not allowed to manage any AAM Features."
+msgstr "No tienes permiso para gestionar ninguna caracteristica de AAM."
+
+#: application/view/manager.php:169
+msgid "Event Manager"
+msgstr "Administrar Eventos"
+
+#: application/view/manager.php:156
+msgid "Posts & Pages"
+msgstr "Entradas y Páginas"
+
+#: application/view/manager.php:145
+msgid "Capability"
+msgstr "Capability"
+
+#: application/view/manager.php:132
+msgid "Metabox & Widget"
+msgstr "Metabox & Widget"
+
+#: application/view/manager.php:120
+msgid "Admin Menu"
+msgstr "Menú principal"
+
+#: application/view/manager.php:97
+msgid "Visitor Manager"
+msgstr "Administrar Visitas"
+
+#: application/view/manager.php:96
+msgid "Visitor"
+msgstr "Visita"
+
+#: application/view/manager.php:87
+msgid "User Manager"
+msgstr "Administrar Usuario"
+
+#: application/view/manager.php:86
+msgid "Users"
+msgstr "Usuarios"
+
+#: application/view/manager.php:77
+msgid "Role Manager"
+msgstr "Administrar Roles"
+
+#: application/view/manager.php:76
+msgid "Roles"
+msgstr "Roles"
+
+#: application/view/extension.php:99
+msgid "Folder advanced-access-manager/extension is not writable"
+msgstr "La carpeta advanced-access-manager/extension no es escribible"
+
+#: application/view/capability.php:104 application/view/capability.php:211
+msgid "Miscellaneous"
+msgstr "Misceláneo"
+
+#: application/view/capability.php:103 application/view/capability.php:209
+msgid "Backend Interface"
+msgstr "Backend Interface"
+
+#: application/view/capability.php:102 application/view/capability.php:207
+msgid "Post & Page"
+msgstr "Entrada & Página"
+
+#: application/view/capability.php:101 application/view/capability.php:205
+msgid "System"
+msgstr "Sistema"
+
+#: application/view/abstract.php:81
+msgid "You are not allowed to manager current view"
+msgstr "No tienes permiso para gestionar la vista actual"
+
+#: application/core/repository.php:320
+msgid "Failed to insert extension to extension folder"
+msgstr "Fallo al insertar extensión en la carpeta de extensiones"
+
+#: application/core/repository.php:304
+msgid "Failed to reach the WPAAM Server"
+msgstr "Fallo al alcanzar el servidor WPAAM"
+
+#: application/core/repository.php:300
+msgid "Failed to write file to wp-content/aam folder"
+msgstr "Fallo al escribir el archivo en el directorio wp-content/aam"
+
+#: application/core/repository.php:297
+msgid "Invalid License Key"
+msgstr "Clave de licencia no válida"
+
+#: aam.php:972 aam.php:973
+msgid "Extensions"
+msgstr "Extensiones"
+
+#: aam.php:962 aam.php:963
+msgid "ConfigPress"
+msgstr "Configuración"
+
+#: aam.php:952 aam.php:953
+msgid "Access Control"
+msgstr "Control de Accesos"
+
+#: aam.php:940 aam.php:941
+msgid "AAM"
+msgstr "Permisos AAM"
+
+#: aam.php:407 aam.php:415 aam.php:442
+msgid "Access Denied"
+msgstr "Acceso denegado"

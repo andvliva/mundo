@@ -1,0 +1,143 @@
+0000.088 () Opened log file at time: Tue, 27 Aug 2019 13:56:04 +0000 on http://127.0.0.1/mundo
+0000.089 () UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.16 WP: 5.2.2 PHP: 7.1.12 (apache2handler, Windows NT DESKTOP-TPRNO5J 10.0 build 18362 (Windows 10) i586) MySQL: 10.1.29-MariaDB WPLANG: vi Server: Apache/2.4.29 (Win32) OpenSSL/1.0.2n PHP/7.1.12 safe_mode: 0 max_execution_time: 900 memory_limit: 1024M (used: 28.9M | 2M) multisite: N openssl: OpenSSL 1.0.2m  2 Nov 2017 mcrypt: Y LANG:  ZipArchive::addFile: Y
+0000.089 () Free space on disk containing Updraft's temporary directory: 133725 MB
+0000.414 () Opened log file at time: Tue, 27 Aug 2019 13:56:05 +0000 on http://127.0.0.1/mundo
+0000.415 () UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.16 WP: 5.2.2 PHP: 7.1.12 (apache2handler, Windows NT DESKTOP-TPRNO5J 10.0 build 18362 (Windows 10) i586) MySQL: 10.1.29-MariaDB WPLANG: vi Server: Apache/2.4.29 (Win32) OpenSSL/1.0.2n PHP/7.1.12 safe_mode: 0 max_execution_time: 900 memory_limit: 1024M (used: 27.2M | 2M) multisite: N openssl: OpenSSL 1.0.2m  2 Nov 2017 mcrypt: Y LANG:  ZipArchive::addFile: Y
+0000.415 () Free space on disk containing Updraft's temporary directory: 133724.3 MB
+0000.453 () Ensuring WP_Filesystem is setup for a restore
+0000.456 () WP_Filesystem is setup and ready for a restore
+0000.509 () Restore job started. Entities to restore: plugins, themes, db. Restore options: {"updraft_encryptionphrase":"","updraft_restorer_wpcore_includewpconfig":false,"updraft_incremental_restore_point":-1}
+0000.561 () Will not delete any archives after unpacking them, because there was no cloud storage for this backup
+0000.610 () Entity: db
+0000.610 () restore_backup(backup_file=backup_2019-02-26-1500_Mundo_Asia_07a5d34353ba-db.gz, type=db, info=a:0:{}, last_one=)
+0000.611 () Unpacking backup... (backup_2019-02-26-1500_Mundo_Asia_07a5d34353ba-db.gz, 5.5 Mb)
+0000.646 () Database successfully unpacked
+0000.647 () Restoring the database (on a large site this can take a long time - if it times out (which can happen if your web hosting company has configured your hosting to limit resources) then you should use a different method, such as phpMyAdmin)...
+0000.648 () Using direct MySQL access; value of use_mysqli is: 1
+0001.561 () Max packet size: 32 MB
+0001.561 () Entering maintenance mode
+0001.561 () Bật chế độ Bảo trì&#8230;
+0001.569 () Backup of: https://test.mundoasiatours.com
+0001.600 () Content URL: https://test.mundoasiatours.com/wp-content
+0001.600 () Uploads URL: https://test.mundoasiatours.com/wp-content/uploads
+0001.600 () Old table prefix: wp_
+0001.600 () Site information: multisite=0
+0001.602 () New table prefix: wp_
+0001.752 () Processing table (InnoDB): wp_options
+0002.361 () Restoring prior UD configuration (table: wp_options; keys: 96)
+0010.811 () Elegant themes theme builder plugin data detected: resetting temporary folder
+0011.254 () Processing table (InnoDB): wp_users
+0011.769 () Processing table (InnoDB): wp_usermeta
+0012.726 () Processing table (InnoDB): wp_commentmeta
+0013.280 () Processing table (InnoDB): wp_comments
+0014.272 () Processing table (InnoDB): wp_links
+0014.656 () Processing table (InnoDB): wp_postmeta
+0019.526 () Database queries processed: 50 in 18.87 seconds
+0032.567 () Processing table (InnoDB): wp_posts
+0038.756 () Database queries processed: 100 in 38.10 seconds
+0039.556 () Processing table (InnoDB): wp_term_relationships
+0040.416 () Processing table (InnoDB): wp_term_taxonomy
+0041.956 () Processing table (InnoDB): wp_termmeta
+0042.906 () Processing table (InnoDB): wp_terms
+0043.708 () Processing table (InnoDB): wp_woocommerce_order_itemmeta
+0044.834 () Processing table (InnoDB): wp_woocommerce_payment_tokenmeta
+0045.254 () Processing table (InnoDB): wp_yoast_seo_links
+0045.477 () Database queries processed: 150 in 44.83 seconds
+0045.659 () Processing table (InnoDB): wp_yoast_seo_meta
+0046.265 () Processing table (InnoDB): wp_aryo_activity_log
+0046.888 () Processing table (InnoDB): wp_duplicator_packages
+0047.275 () Processing table (InnoDB): wp_es_deliverreport
+0047.434 () Processing table (InnoDB): wp_es_emaillist
+0047.995 () Processing table (InnoDB): wp_es_notification
+0048.336 () Processing table (InnoDB): wp_es_sentdetails
+0048.559 () Processing table (InnoDB): wp_et_bloom_stats
+0048.757 () Processing table (InnoDB): wp_gmtr_data
+0049.045 () Processing table (InnoDB): wp_litespeed_img_optm
+0049.359 () Processing table (InnoDB): wp_litespeed_optimizer
+0049.591 () Processing table (MyISAM): wp_mail_bank
+0049.660 () Processing table (InnoDB): wp_mail_bank_email_logs
+0050.467 () Processing table (MyISAM): wp_mail_bank_logs
+0050.623 () Database queries processed: 200 in 49.97 seconds
+0050.672 () Processing table (MyISAM): wp_mail_bank_meta
+0050.952 () Processing table (InnoDB): wp_media_file_manager_log
+0051.712 () Processing table (MyISAM): wp_mgmlp_folders
+0051.917 () Processing table (InnoDB): wp_newsletter
+0052.234 () Processing table (InnoDB): wp_newsletter_emails
+0052.435 () Processing table (InnoDB): wp_newsletter_sent
+0052.698 () Processing table (InnoDB): wp_newsletter_stats
+0052.876 () Processing table (InnoDB): wp_newsletter_user_logs
+0053.152 () Processing table (InnoDB): wp_nme_gmaps_data
+0053.507 () Processing table (InnoDB): wp_post_views
+0054.341 () Database queries processed: 250 in 53.69 seconds
+0054.346 () Processing table (InnoDB): wp_ualp_user_activity
+0055.168 () Processing table (InnoDB): wp_wc_download_log
+0055.656 () Processing table (InnoDB): wp_wc_webhooks
+0055.922 () Processing table (InnoDB): wp_wfu_dbxqueue
+0056.156 () Processing table (InnoDB): wp_wfu_log
+0056.340 () Processing table (InnoDB): wp_wfu_userdata
+0056.568 () Processing table (InnoDB): wp_woocommerce_api_keys
+0056.726 () Processing table (InnoDB): wp_woocommerce_attribute_taxonomies
+0056.884 () Processing table (InnoDB): wp_woocommerce_downloadable_product_permissions
+0057.102 () Processing table (InnoDB): wp_woocommerce_log
+0057.343 () Processing table (InnoDB): wp_woocommerce_order_items
+0057.550 () Processing table (InnoDB): wp_woocommerce_payment_tokens
+0057.885 () Processing table (InnoDB): wp_woocommerce_sessions
+0058.265 () Processing table (InnoDB): wp_woocommerce_shipping_zone_locations
+0058.602 () Processing table (InnoDB): wp_woocommerce_shipping_zone_methods
+0058.976 () Processing table (InnoDB): wp_woocommerce_shipping_zones
+0059.285 () Processing table (InnoDB): wp_woocommerce_tax_rate_locations
+0059.480 () Processing table (InnoDB): wp_woocommerce_tax_rates
+0059.632 () Processing table (InnoDB): wp_wpgmza
+0059.821 () Processing table (InnoDB): wp_wpgmza_categories
+0059.968 () Processing table (InnoDB): wp_wpgmza_category_maps
+0060.246 () Processing table (InnoDB): wp_wpgmza_circles
+0060.384 () Processing table (InnoDB): wp_wpgmza_maps
+0060.576 () Processing table (InnoDB): wp_wpgmza_polygon
+0060.709 () Processing table (InnoDB): wp_wpgmza_polylines
+0060.926 () Processing table (InnoDB): wp_wpgmza_rectangles
+0061.516 () Unlocking database and leaving maintenance mode
+0061.516 () Vô hiệu hóa chế độ bảo trì&#8230;
+0061.517 () Finished: lines processed: 310 in 60.87 seconds
+0061.520 () Cleaning up rubbish...
+0061.895 () Entity: plugins
+0061.895 () restore_backup(backup_file=backup_2019-02-26-1500_Mundo_Asia_07a5d34353ba-plugins.zip, type=plugins, info=a:2:{s:4:"path";s:40:"C:\xampp\htdocs\mundo/wp-content/plugins";s:11:"description";s:7:"Plugins";}, last_one=)
+0061.896 () Unpacking backup... (backup_2019-02-26-1500_Mundo_Asia_07a5d34353ba-plugins.zip, 22 MB)
+0061.902 () Unzipping backup_2019-02-26-1500_Mundo_Asia_07a5d34353ba-plugins.zip to C:/xampp/htdocs/mundo/wp-content/upgrade/bc737519/ using UpdraftPlus_ZipArchive, starting index 0
+0062.887 () Unzip progress: 1105 out of 5913 files (279 B, plugins/updraftplus/vendor/phpseclib/phpseclib/AUTHORS)
+0074.819 () Unzip progress: 2106 out of 5913 files (22.1 MB, plugins/updraftplus/vendor/phpseclib/phpseclib/appveyor.yml)
+0087.271 () Unzip progress: 3107 out of 5913 files (27.7 MB, plugins/polylang/include/translated-term.php)
+0103.278 () Unzip progress: 4105 out of 5913 files (40.6 MB, plugins/wordpress-seo/vendor/composer/autoload_classmap.php)
+0119.113 () Unzip progress: 4826 out of 5913 files (48.1 MB, plugins/w3-total-cache/lib/Minify/DooDigestAuth.php)
+0135.105 () Unzip progress: 5799 out of 5913 files (62.2 MB, plugins/newsletter/vendor/codemirror/addon/hint/xml-hint.js)
+0138.339 () Unzip progress: 5913 out of 5913 files (64.8 MB, plugins/newsletter/emails/tnp-composer/blocks/content-05-image.block.png)
+0138.347 () Moving old data: filesystem method / updraft_dir is potentially possible
+0138.348 () Moving old data: can potentially use wp_filesystem method / -old
+0138.348 () Moving old data out of the way...
+0138.544 () Top-level entities being moved: akismet, hello.php, index.php, updraftplus
+0138.550 () Moving unpacked backup into place...
+0139.190 () Top-level entities being moved: advanced-access-manager, aryo-activity-log, custom-taxonomy-order-ne, fly-dynamic-image-resizer, index.php, litespeed-cache, liva-divi, loco-translate, mb-term-meta, meta-box, meta-box-columns, meta-box-group, mundo, mundo-booking, mundo-excursion, newsletter, option-tree, polylang, resmushit-image-optimizer, smtp-mailing-queue, ssl-insecure-content-fixer, tinymce-advanced, uk-cookie-consent, updraftplus, w3-total-cache, woo-preview-emails, woocommerce, wordpress-seo, wp-force-https, wp-mail-bank, wp-media-category-management, wp-pagenavi
+0139.235 () Cleaning up rubbish...
+0139.297 () restore_backup(backup_file=backup_2019-02-26-1500_Mundo_Asia_07a5d34353ba-plugins2.zip, type=plugins, info=a:2:{s:4:"path";s:40:"C:\xampp\htdocs\mundo/wp-content/plugins";s:11:"description";s:7:"Plugins";}, last_one=)
+0139.298 () Unpacking backup... (backup_2019-02-26-1500_Mundo_Asia_07a5d34353ba-plugins2.zip, 11 MB)
+0139.300 () Unzipping backup_2019-02-26-1500_Mundo_Asia_07a5d34353ba-plugins2.zip to C:/xampp/htdocs/mundo/wp-content/upgrade/92e35e19/ using UpdraftPlus_ZipArchive, starting index 0
+0155.252 () Unzip progress: 763 out of 2298 files (10.1 MB, plugins/woocommerce/includes/admin/meta-boxes/views/html-product-data-linked-products.php)
+0170.540 () Unzip progress: 1764 out of 2298 files (20.4 MB, plugins/wp-pagenavi/uninstall.php)
+0176.324 () Unzip progress: 2298 out of 2298 files (26.8 MB, plugins/liva-divi/js/lightGallery-master/package.json)
+0176.326 () Moving unpacked backup into place...
+0176.502 () Top-level entities being moved: advanced-access-manager, fly-dynamic-image-resizer, liva-divi, loco-translate, mb-term-meta, meta-box, meta-box-columns, mundo-booking, option-tree, resmushit-image-optimizer, tinymce-advanced, woo-preview-emails, woocommerce, wp-media-category-management, wp-pagenavi
+0180.079 () Cleaning up rubbish...
+0180.265 () Entity: themes
+0180.265 () restore_backup(backup_file=backup_2019-02-26-1500_Mundo_Asia_07a5d34353ba-themes.zip, type=themes, info=a:2:{s:4:"path";s:39:"C:\xampp\htdocs\mundo/wp-content/themes";s:11:"description";s:6:"Themes";}, last_one=1)
+0180.267 () Unpacking backup... (backup_2019-02-26-1500_Mundo_Asia_07a5d34353ba-themes.zip, 13.8 MB)
+0180.269 () Unzipping backup_2019-02-26-1500_Mundo_Asia_07a5d34353ba-themes.zip to C:/xampp/htdocs/mundo/wp-content/upgrade/06f7eab5/ using UpdraftPlus_ZipArchive, starting index 0
+0192.911 () Unzip progress: 1002 out of 1745 files (20.9 MB, themes/mundo/fonts/webfonts_Assassin/install-a-webfont.txt)
+0203.057 () Unzip progress: 1745 out of 1745 files (44.1 MB, themes/Divi/includes/builder/module/Text.php)
+0203.061 () Moving old data: filesystem method / updraft_dir is potentially possible
+0203.062 () Moving old data: can potentially use wp_filesystem method / -old
+0203.062 () Moving old data out of the way...
+0203.110 () Top-level entities being moved: index.php, twentynineteen, twentyseventeen, twentysixteen
+0203.121 () Moving unpacked backup into place...
+0203.329 () Top-level entities being moved: Divi, index.php, mundo
+0203.335 () Cleaning up rubbish...
+0204.337 () Restore successful!
+0204.337 () Restore successful

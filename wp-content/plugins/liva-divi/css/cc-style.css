@@ -1,0 +1,600 @@
+/* fancy select box */
+.amyui-fancy-select {
+	position: relative;
+	display: inline-block;
+	margin: 0 30px 0 5px;
+}
+
+.amyui-fancy-select .fs-disabled {
+	opacity: .5;
+}
+
+.amyui-fancy-select select:focus+.fs-trigger {
+	border-color: #9ac100;
+}
+
+.amyui-fancy-select .fs-trigger {
+	cursor: pointer;
+	display: block;
+	width: 100%;
+	height: auto;
+	padding: 0;
+	font-size: 15px;
+	color: #bd1e2d;
+	background-color: #fff;
+	transition: all 0.2s ease-out;
+	font-weight: bold;
+	position: relative;
+}
+
+.amyui-fancy-select .fs-trigger:hover {
+	border-color: #d9d9d9;
+}
+
+.amyui-fancy-select .fs-trigger:after {
+	content: "3";
+	color: #bd1e2d;
+	display: block;
+	position: absolute;
+	top: 0;
+	right: -30px;
+	font-family: "ETmodules";
+	font-size: 26px;
+	font-weight: 800;
+}
+
+.amyui-fancy-select .fs-trigger.input-rounded {
+	border-radius: 20px;
+	padding-left: 20px;
+	padding-right: 40px;
+}
+
+.amyui-fancy-select .fs-trigger.input-rounded:after {
+	right: 20px;
+}
+
+.amyui-fancy-select .fs-trigger.fs-open {
+
+}
+
+.amyui-fancy-select .fs-trigger.fs-open:after {
+
+}
+
+.amyui-fancy-select ul.fs-options {
+	list-style: none;
+	margin: 0;
+	padding: 5px 0;
+	position: absolute;
+	top: 15px;
+	left: 0;
+	z-index: 50;
+	overflow: visible;
+	background: #fff;
+	width: 100%;
+	min-width: 180px;
+	visibility: hidden;
+	opacity: 0;
+	transition: opacity 0.3s ease-out, visibility 0.3s ease-out, top 0.3s ease-out, bottom 0.3s ease-out;
+	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+	text-align: left;
+}
+
+.amyui-fancy-select ul.fs-options:after {
+
+}
+
+.amyui-fancy-select ul.fs-options.fs-open {
+	visibility: visible;
+	top: 25px;
+	opacity: 1;
+}
+
+.amyui-fancy-select ul.fs-options.fs-overflowing {
+	top: auto;
+	bottom: 40px;
+}
+
+.amyui-fancy-select ul.fs-options.fs-overflowing:after {
+	top: 100%;
+	border-bottom-color: transparent;
+	border-top-color: #9ac100;
+}
+
+.amyui-fancy-select ul.fs-options.fs-overflowing.fs-open {
+	top: auto;
+	bottom: 50px;
+}
+
+.amyui-fancy-select ul.fs-options li {
+	padding: 8px 12px;
+	margin: 0;
+	color: #000;
+	cursor: pointer;
+	white-space: nowrap;
+	transition: all 0.2s ease-out;
+}
+
+.amyui-fancy-select ul.fs-options li.fs-selected {
+	background: #bd1e2d;
+	color: #fff;
+}
+
+.amyui-fancy-select ul.fs-options li.fs-hover {
+	background: #000;
+	color: #fff;
+}
+
+.amyui-fancy-select ul.fs-options li.fs-optgroup {
+	cursor: default;
+	padding: 10px 0 0 0;
+}
+
+.amyui-fancy-select ul.fs-options li.fs-optgroup span {
+	padding-left: 10px;
+	display: block;
+	font-style: italic;
+	opacity: 0.8;
+}
+
+.amyui-fancy-select ul.fs-optgroup {
+	list-style: none;
+	padding: 5px 0 0 0;
+}
+
+.amyui-fancy-select ul.fs-optgroup li {
+	padding-left: 30px;
+}
+/* end select */
+
+/* loading */
+#cc-loading {
+	background-color: rgba(255, 255, 255, 0.75);
+	height: 100%;
+	left: 0;
+	display: none;
+	overflow: hidden;
+	position: fixed;
+	top: 0;
+	transition: opacity 0.3s ease-in-out 0s, background 0.3s ease-in-out 0s, z-index 0.3s ease-in-out 0s;
+	width: 100%;
+	z-index: 0;
+}
+
+#cc-loading.open {
+	display: block;
+	z-index: 1101;
+}
+
+#cc-loading span {
+	background: url("../images/ajax_loading.gif") no-repeat;
+	display: block;
+	width: 70px;
+	height: 70px;
+	margin: 25% auto 0;
+}
+
+/* end loading */
+
+.cc-tour-page {
+	margin-top: 40px;
+}
+
+.cc-search {
+	border: 1px solid #f7f7f7;
+	margin-bottom: 35px;
+}
+
+.cc-search h3 {
+	background: #f7f7f7;
+	display: block;
+	position: relative;
+	font-size: 17px!important;
+	padding: 14px 10px;
+	cursor: pointer;
+}
+
+.cc-search input {
+	border: none;
+	padding: 20px;
+}
+
+.cc-clear-all {
+	display: none;
+	font-size: 15px;
+	color: #9B9B9B;
+	cursor: pointer;
+	margin-left: 10px;
+}
+
+.cc-clear-all.has-checked {
+	display: inline-block;
+}
+
+.cc-filter-all:hover {
+	color: #666;
+}
+
+.cc-filter-all > .cc-filter-name {
+	margin-bottom: 25px;
+	font-size: 20px!important;
+}
+
+.cc-filter-all > .cc-filter-name > a {
+	float: right;
+	cursor: pointer;
+	color: #bd1e2d;
+	display: none;
+	font-size: 16px;
+}
+
+.cc-filter-all.has-checked > .cc-filter-name > a {
+	display: inline-block;
+}
+
+.cc-filter-all .cc-filters {
+	margin-bottom: 25px;
+	border: 1px solid #f7f7f7;
+}
+
+.cc-filter-all .cc-filters > h3 {
+	background: #f7f7f7;
+	display: block;
+	position: relative;
+	font-size: 17px!important;
+	padding: 14px 10px;
+	cursor: pointer;
+}
+
+.cc-filter-all .cc-filters > h3:after {
+	content: "+";
+	position: absolute;
+	right: 10px;
+	font-weight: normal;
+}
+
+.cc-filter-all .cc-filters.active > h3:after {
+	content: "-";
+}
+
+.cc-single-filter {
+	padding: 20px;
+	display: none;
+}
+
+.cc-filter-all .cc-filters.active .cc-single-filter {
+	display: block;
+}
+
+.cc-single-filter > div {
+	margin-bottom: 5px;
+	position: relative;
+}
+
+.cc-single-filter input[type="checkbox"] {
+	-webkit-appearance: none;
+	background-color: #fff;
+	border: 1px solid #cacece;
+	box-shadow: 0 1px 2px rgba(0,0,0,0.05), inset 0px -15px 10px -12px rgba(0,0,0,0.05);
+	padding: 9px;
+	border-radius: 0;
+	display: inline-block;
+	position: relative;
+}
+
+.cc-single-filter input[type="checkbox"]:active,
+.cc-single-filter input[type="checkbox"]:checked:active {
+	box-shadow: 0 1px 2px rgba(0,0,0,0.05), inset 0px 1px 3px rgba(0,0,0,0.1);
+}
+
+.cc-single-filter input[type="checkbox"]:checked {
+	background-color: #e9ecee;
+	border: 1px solid #adb8c0;
+	box-shadow: 0 1px 2px rgba(0,0,0,0.05), inset 0px -15px 10px -12px rgba(0,0,0,0.05), inset 15px 10px -12px rgba(255,255,255,0.1);
+	color: #99a1a7;
+}
+
+.cc-single-filter input[type="checkbox"]:checked:after {
+	content: '\2714';
+	font-size: 14px;
+	position: absolute;
+	top: 0px;
+	left: 3px;
+	color: #99a1a7;
+}
+
+.cc-single-filter span {
+	position: absolute;
+	top: 5px;
+	padding-left: 10px;
+	max-height: 23px;
+	overflow: hidden;
+}
+
+.cc-single-filter .child-parent-destination > div {
+	position: relative;
+}
+
+.cc-destination .parent-destination span.open,
+.cc-destination .parent-destination span.close {
+	right: -9px;
+	top: 1px;
+	font-size: 17px;
+	cursor: pointer;
+}
+
+.cc-destination .parent-destination span.close {
+	display: none;
+}
+
+.cc-destination .parent-destination.open span.close {
+	display: block;
+}
+
+.cc-destination .parent-destination span.open {
+	display: block;
+}
+
+.cc-destination .parent-destination.open span.open {
+	display: none;
+}
+
+.cc-destination .parent-destination .child-parent-destination {
+	display: none;
+	padding-left: 30px;
+}
+
+.cc-destination .parent-destination.open .child-parent-destination {
+	display: block;
+}
+
+.cc-tour-content {
+
+}
+
+.cc-tour-content .post_content .entry-title {
+	margin-right: 0;
+	line-height: 25px;
+}
+
+.cc-tour-content .content {
+	padding: 0 15px;
+}
+
+.cc-tour-content hr {
+	margin: 15px;
+}
+
+.cc-tour-content .view-tour {
+	padding: 0;
+}
+
+.cc-tour-content .view-tour a.more-link {
+	padding: 0 23px 18px 0;
+}
+
+/* filter */
+.cc-result-found {
+	float: none;
+	padding-top: 8px;
+	text-align: left;
+}
+
+.cc-per-page {
+	text-align: left;
+}
+
+.cc-per-page .amyui-fancy-select {
+	border: 1px solid #ddd;
+	border-radius: 5px;
+	padding: 5px;
+	padding-right: 35px;
+	margin: 0 5px;
+}
+
+.cc-per-page .amyui-fancy-select ul.fs-options {
+	min-width: 30px;
+}
+
+.cc-sort-by {
+	padding-top: 8px;
+	text-align: right;
+}
+
+/* pagination tour */
+.cc-pagination {
+	margin: 30px auto;
+	clear: both;
+	position: relative;
+	display: block;
+	text-align: center;
+}
+
+.cc-pagination span,
+.cc-pagination a {
+	background: #f5f5f5;
+	padding: 9px 16px;
+	margin: 0 3px;
+	color: #696969;
+}
+
+.cc-pagination a:hover,
+.cc-pagination span.current {
+	background: #bd1e2d;
+	color: #fff;
+}
+
+.cc-duration-tour .slider-container,
+.cc-price-filter .slider-container {
+	margin: 30px 0 20px;
+}
+
+.cc-filter-all .cc-filters.cc-duration-tour,
+.cc-filter-all .cc-filters.cc-price-filter {
+	border: none;
+}
+
+.cc-top-action .row {
+	margin-left: -15px;
+	margin-right: -15px;
+}
+
+.cc-top-action {
+	padding-bottom: 20px;
+	border-bottom: 1px solid #ddd;
+}
+
+.cc-tour-page #tours_travel_style {
+	padding-top: 20px;
+}
+
+.cc-result-filter {
+	margin-top: 20px;
+}
+
+.cc-result-filter .n {
+	font-size: 17px!important;
+	display: inline-block;
+}
+
+.result-filter-content {
+	display: inline-block;
+	margin-left: 20px;
+}
+
+.result-filter-content .r-f {
+	border: 1px solid #ddd;
+	padding: 4px 8px;
+	border-radius: 4px;
+	display: none;
+	margin-right: 6px;
+}
+
+.result-filter-content .r-f.no-content {
+	display: none;
+}
+
+.result-filter-content .r-f.has-content {
+	display: inline-block;
+}
+
+.result-filter-content .r-f h5 {
+	font-weight: normal;
+	font-size: 15px!important;
+	color: #9B9B9B;
+	display: inline-block;
+}
+
+.result-filter-content .r-f h5 b {
+	font-weight: normal;
+}
+
+.result-filter-content .r-f .r-c {
+	display: inline-block;
+	margin-left: 10px;
+	font-size: 15px;
+	color: #9B9B9B;
+}
+
+.result-filter-content .r-f .r-c span {
+	cursor: pointer;
+	margin-left: 3px;
+}
+
+.result-filter-content .r-f .r-c span:hover {
+	color: #000;
+}
+
+.cc-departure .cc-single-filter h4 {
+	font-size: 16px!important;
+	margin-bottom: 20px;
+}
+
+.cc-departure .cc-single-filter .cc-departure-month {
+	margin: 0;
+	padding: 0;
+	margin-bottom: 25px;
+}
+
+.cc-departure .cc-single-filter .cc-departure-month li {
+	list-style: none;
+	border: 1px solid #ddd;
+	width: calc(50% - 6px);
+	display: inline-block;
+	margin: 4px 3px;
+	padding: 3px 5px;
+	text-align: center;
+	border-radius: 5px;
+	cursor: pointer;
+}
+
+.cc-departure .cc-single-filter .cc-departure-month li.active {
+	background: rgba(102,176,218,.2);
+	border-color: #409cd1;
+	color: #409cd1;
+}
+
+.cc-departure .cc-single-filter .cc-departure-date input {
+	display: inline-block;
+	width: 85px;
+	border: none;
+	border-radius: 3px;
+	padding: 3px;
+}
+
+.cc-departure .cc-single-filter .cc-departure-date .t084-arrow {
+	height: 22px;
+	position: relative;
+	top: 5px;
+	font-weight: 700;
+	margin: 0 5px;
+	width: 25px;
+}
+
+.cc-duration-tour .cc-single-filter,
+.cc-price-filter .cc-single-filter {
+	padding-right: 10px;
+}
+
+.cc-duration-tour .cc-single-filter .slider-container,
+.cc-price-filter .cc-single-filter .slider-container {
+	width: 100%!important;
+}
+
+.cc-tour-content .view-tour a.more-link {
+	font-size: 13px;
+}
+
+.cc-tour-content .tour-list-item .text_gray {
+	font-size: 13px;
+}
+
+.cc-tour-content .tour-list-item .label_tour {
+	display: none;
+}
+
+.cc-custom-bg {
+	background-image: attr(data-image-src url);
+}
+
+@media (max-width: 480px) {
+	.cc-tour-page .cc-top-action .row > div {
+		margin-bottom: 15px;
+	}
+	
+	.cc-tour-page .cc-sort-by {
+		text-align: left;
+	}
+	
+	.cc-tour-page .tour-list-item .post-thumbnail > a {
+		height: auto!important;
+	}
+	
+	.cc-tour-page .tour-list-item .post_content {
+		height: auto!important;
+	}
+	
+	.cc-tour-page .cc-tour-content .view-tour a.more-link {
+		padding: 0;
+	}
+}	
